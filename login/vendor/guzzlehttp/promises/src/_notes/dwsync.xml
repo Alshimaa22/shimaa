@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregateException.php" server="tafl.azharlink.com" local="132505179279640862" remote="132506787600000000" />
+<file name="CancellationException.php" server="tafl.azharlink.com" local="132505179279650834" remote="132506787600000000" />
+<file name="Coroutine.php" server="tafl.azharlink.com" local="132505179279650834" remote="132506787600000000" />
+<file name="Create.php" server="tafl.azharlink.com" local="132505179279660805" remote="132506788200000000" />
+<file name="Each.php" server="tafl.azharlink.com" local="132505179279660805" remote="132506788200000000" />
+<file name="EachPromise.php" server="tafl.azharlink.com" local="132505179279660805" remote="132506788200000000" />
+<file name="FulfilledPromise.php" server="tafl.azharlink.com" local="132505179279670779" remote="132506788200000000" />
+<file name="functions.php" server="tafl.azharlink.com" local="132505179279700711" remote="132506788200000000" />
+<file name="functions_include.php" server="tafl.azharlink.com" local="132505179279700711" remote="132506788200000000" />
+<file name="Is.php" server="tafl.azharlink.com" local="132505179279670779" remote="132506788200000000" />
+<file name="Promise.php" server="tafl.azharlink.com" local="132505179279670779" remote="132506788200000000" />
+<file name="PromiseInterface.php" server="tafl.azharlink.com" local="132505179279680752" remote="132506788200000000" />
+<file name="PromisorInterface.php" server="tafl.azharlink.com" local="132505179279680752" remote="132506788200000000" />
+<file name="RejectedPromise.php" server="tafl.azharlink.com" local="132505179279680752" remote="132506788200000000" />
+<file name="RejectionException.php" server="tafl.azharlink.com" local="132505179279690734" remote="132506788200000000" />
+<file name="TaskQueue.php" server="tafl.azharlink.com" local="132505179279690734" remote="132506788200000000" />
+<file name="TaskQueueInterface.php" server="tafl.azharlink.com" local="132505179279690734" remote="132506788200000000" />
+<file name="Utils.php" server="tafl.azharlink.com" local="132505179279700711" remote="132506788200000000" />
+</dwsync>

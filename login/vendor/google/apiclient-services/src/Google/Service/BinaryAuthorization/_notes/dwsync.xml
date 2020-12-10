@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdmissionRule.php" server="tafl.azharlink.com" local="132505179593691958" remote="132506832000000000" />
+<file name="AdmissionWhitelistPattern.php" server="tafl.azharlink.com" local="132505179593691958" remote="132506832000000000" />
+<file name="AttestationOccurrence.php" server="tafl.azharlink.com" local="132505179593701982" remote="132506832000000000" />
+<file name="Attestor.php" server="tafl.azharlink.com" local="132505179593701982" remote="132506832000000000" />
+<file name="AttestorPublicKey.php" server="tafl.azharlink.com" local="132505179593711965" remote="132506832000000000" />
+<file name="BinaryauthorizationEmpty.php" server="tafl.azharlink.com" local="132505179593711965" remote="132506832000000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132505179593721931" remote="132506832000000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132505179593721931" remote="132506832000000000" />
+<file name="IamPolicy.php" server="tafl.azharlink.com" local="132505179593731625" remote="132506832000000000" />
+<file name="Jwt.php" server="tafl.azharlink.com" local="132505179593731625" remote="132506832000000000" />
+<file name="ListAttestorsResponse.php" server="tafl.azharlink.com" local="132505179593741875" remote="132506832000000000" />
+<file name="PkixPublicKey.php" server="tafl.azharlink.com" local="132505179593741875" remote="132506832000000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132505179593751805" remote="132506832000000000" />
+<file name="SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132505179593781715" remote="132506832000000000" />
+<file name="Signature.php" server="tafl.azharlink.com" local="132505179593781715" remote="132506832000000000" />
+<file name="TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132505179593791689" remote="132506832000000000" />
+<file name="TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132505179593791689" remote="132506832600000000" />
+<file name="UserOwnedGrafeasNote.php" server="tafl.azharlink.com" local="132505179593801660" remote="132506832600000000" />
+<file name="ValidateAttestationOccurrenceRequest.php" server="tafl.azharlink.com" local="132505179593811415" remote="132506832600000000" />
+<file name="ValidateAttestationOccurrenceResponse.php" server="tafl.azharlink.com" local="132505179593811415" remote="132506832600000000" />
+</dwsync>

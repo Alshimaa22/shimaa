@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ExportInstanceRequest.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="FailoverInstanceRequest.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="GcsDestination.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="GcsSource.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="GoogleCloudRedisV1LocationMetadata.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="GoogleCloudRedisV1OperationMetadata.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="GoogleCloudRedisV1ZoneMetadata.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="ImportInstanceRequest.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="InputConfig.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="Instance.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="ListInstancesResponse.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="ListLocationsResponse.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="ListOperationsResponse.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="Location.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563600000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563600000000" />
+<file name="OutputConfig.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563600000000" />
+<file name="RedisEmpty.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563600000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132229507784720737" remote="132229563600000000" />
+</dwsync>

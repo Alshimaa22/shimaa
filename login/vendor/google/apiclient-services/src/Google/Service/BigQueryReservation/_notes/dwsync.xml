@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Assignment.php" server="tafl.azharlink.com" local="132505179592385447" remote="132506830800000000" />
+<file name="BigqueryreservationEmpty.php" server="tafl.azharlink.com" local="132505179592395424" remote="132506830800000000" />
+<file name="BiReservation.php" server="tafl.azharlink.com" local="132505179592395424" remote="132506830800000000" />
+<file name="CapacityCommitment.php" server="tafl.azharlink.com" local="132505179592405396" remote="132506830800000000" />
+<file name="CreateSlotPoolMetadata.php" server="tafl.azharlink.com" local="132505179592415174" remote="132506830800000000" />
+<file name="ListAssignmentsResponse.php" server="tafl.azharlink.com" local="132505179592415174" remote="132506830800000000" />
+<file name="ListCapacityCommitmentsResponse.php" server="tafl.azharlink.com" local="132505179592415174" remote="132506830800000000" />
+<file name="ListOperationsResponse.php" server="tafl.azharlink.com" local="132505179592425409" remote="132506830800000000" />
+<file name="ListReservationsResponse.php" server="tafl.azharlink.com" local="132505179592425409" remote="132506830800000000" />
+<file name="MergeCapacityCommitmentsRequest.php" server="tafl.azharlink.com" local="132505179592435395" remote="132506830800000000" />
+<file name="MoveAssignmentRequest.php" server="tafl.azharlink.com" local="132505179592435395" remote="132506830800000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132505179592445391" remote="132506830800000000" />
+<file name="Reservation.php" server="tafl.azharlink.com" local="132505179592445391" remote="132506830800000000" />
+<file name="SearchAllAssignmentsResponse.php" server="tafl.azharlink.com" local="132505179592494937" remote="132506830800000000" />
+<file name="SearchAssignmentsResponse.php" server="tafl.azharlink.com" local="132505179592504908" remote="132506830800000000" />
+<file name="SplitCapacityCommitmentRequest.php" server="tafl.azharlink.com" local="132505179592514883" remote="132506830800000000" />
+<file name="SplitCapacityCommitmentResponse.php" server="tafl.azharlink.com" local="132505179592514883" remote="132506830800000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132505179592524853" remote="132506830800000000" />
+</dwsync>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Data.php" server="tafl.azharlink.com" local="132505179585686121" remote="132506814000000000" />
+<file name="DataGa.php" server="tafl.azharlink.com" local="132505179585696092" remote="132506814000000000" />
+<file name="DataMcf.php" server="tafl.azharlink.com" local="132505179585696092" remote="132506814000000000" />
+<file name="DataRealtime.php" server="tafl.azharlink.com" local="132505179585706066" remote="132506814000000000" />
+<file name="Management.php" server="tafl.azharlink.com" local="132505179585706066" remote="132506814000000000" />
+<file name="ManagementAccounts.php" server="tafl.azharlink.com" local="132505179585726012" remote="132506814000000000" />
+<file name="ManagementAccountSummaries.php" server="tafl.azharlink.com" local="132505179585716042" remote="132506814000000000" />
+<file name="ManagementAccountUserLinks.php" server="tafl.azharlink.com" local="132505179585716042" remote="132506814000000000" />
+<file name="ManagementClientId.php" server="tafl.azharlink.com" local="132505179585726012" remote="132506814000000000" />
+<file name="ManagementCustomDataSources.php" server="tafl.azharlink.com" local="132505179585735988" remote="132506814000000000" />
+<file name="ManagementCustomDimensions.php" server="tafl.azharlink.com" local="132505179585735988" remote="132506814000000000" />
+<file name="ManagementCustomMetrics.php" server="tafl.azharlink.com" local="132505179585745962" remote="132506814000000000" />
+<file name="ManagementExperiments.php" server="tafl.azharlink.com" local="132505179585755935" remote="132506814000000000" />
+<file name="ManagementFilters.php" server="tafl.azharlink.com" local="132505179585755935" remote="132506814000000000" />
+<file name="ManagementGoals.php" server="tafl.azharlink.com" local="132505179585765906" remote="132506814000000000" />
+<file name="ManagementProfileFilterLinks.php" server="tafl.azharlink.com" local="132505179585765906" remote="132506814000000000" />
+<file name="ManagementProfiles.php" server="tafl.azharlink.com" local="132505179585775879" remote="132506814000000000" />
+<file name="ManagementProfileUserLinks.php" server="tafl.azharlink.com" local="132505179585775879" remote="132506814000000000" />
+<file name="ManagementRemarketingAudience.php" server="tafl.azharlink.com" local="132505179585785852" remote="132506814000000000" />
+<file name="ManagementSegments.php" server="tafl.azharlink.com" local="132505179585785852" remote="132506814000000000" />
+<file name="ManagementUnsampledReports.php" server="tafl.azharlink.com" local="132505179585785852" remote="132506814000000000" />
+<file name="ManagementUploads.php" server="tafl.azharlink.com" local="132505179585795826" remote="132506814000000000" />
+<file name="ManagementWebproperties.php" server="tafl.azharlink.com" local="132505179585805799" remote="132506814000000000" />
+<file name="ManagementWebPropertyAdWordsLinks.php" server="tafl.azharlink.com" local="132505179585795826" remote="132506814000000000" />
+<file name="ManagementWebpropertyUserLinks.php" server="tafl.azharlink.com" local="132505179585805799" remote="132506814000000000" />
+<file name="Metadata.php" server="tafl.azharlink.com" local="132505179585815776" remote="132506814000000000" />
+<file name="MetadataColumns.php" server="tafl.azharlink.com" local="132505179585815776" remote="132506814000000000" />
+<file name="Provisioning.php" server="tafl.azharlink.com" local="132505179585825745" remote="132506814000000000" />
+<file name="UserDeletion.php" server="tafl.azharlink.com" local="132505179585825745" remote="132506814000000000" />
+<file name="UserDeletionUserDeletionRequest.php" server="tafl.azharlink.com" local="132505179585835719" remote="132506814000000000" />
+</dwsync>

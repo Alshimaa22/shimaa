@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Blog.php" server="tafl.azharlink.com" local="132229507780834215" remote="132229545000000000" />
+<file name="BlogList.php" server="tafl.azharlink.com" local="132229507780834215" remote="132229545000000000" />
+<file name="BlogLocale.php" server="tafl.azharlink.com" local="132229507780834215" remote="132229545000000000" />
+<file name="BlogPages.php" server="tafl.azharlink.com" local="132229507780834215" remote="132229545000000000" />
+<file name="BlogPerUserInfo.php" server="tafl.azharlink.com" local="132229507780844187" remote="132229545000000000" />
+<file name="BlogPosts.php" server="tafl.azharlink.com" local="132229507780844187" remote="132229545000000000" />
+<file name="BlogUserInfo.php" server="tafl.azharlink.com" local="132229507780855434" remote="132229545000000000" />
+<file name="Comment.php" server="tafl.azharlink.com" local="132229507780855434" remote="132229545000000000" />
+<file name="CommentAuthor.php" server="tafl.azharlink.com" local="132229507780855434" remote="132229545000000000" />
+<file name="CommentAuthorImage.php" server="tafl.azharlink.com" local="132229507780864563" remote="132229545000000000" />
+<file name="CommentBlog.php" server="tafl.azharlink.com" local="132229507780864563" remote="132229545000000000" />
+<file name="CommentInReplyTo.php" server="tafl.azharlink.com" local="132229507780864563" remote="132229545000000000" />
+<file name="CommentList.php" server="tafl.azharlink.com" local="132229507780864563" remote="132229545000000000" />
+<file name="CommentPost.php" server="tafl.azharlink.com" local="132229507780874828" remote="132229545000000000" />
+<file name="Page.php" server="tafl.azharlink.com" local="132229507780874828" remote="132229545600000000" />
+<file name="PageAuthor.php" server="tafl.azharlink.com" local="132229507780874828" remote="132229545600000000" />
+<file name="PageAuthorImage.php" server="tafl.azharlink.com" local="132229507780884808" remote="132229545600000000" />
+<file name="PageBlog.php" server="tafl.azharlink.com" local="132229507780884808" remote="132229545600000000" />
+<file name="PageList.php" server="tafl.azharlink.com" local="132229507780884808" remote="132229545600000000" />
+<file name="Pageviews.php" server="tafl.azharlink.com" local="132229507780894773" remote="132229545600000000" />
+<file name="PageviewsCounts.php" server="tafl.azharlink.com" local="132229507780894773" remote="132229545600000000" />
+<file name="Post.php" server="tafl.azharlink.com" local="132229507780894773" remote="132229545600000000" />
+<file name="PostAuthor.php" server="tafl.azharlink.com" local="132229507780894773" remote="132229545600000000" />
+<file name="PostAuthorImage.php" server="tafl.azharlink.com" local="132229507780904752" remote="132229545600000000" />
+<file name="PostBlog.php" server="tafl.azharlink.com" local="132229507780904752" remote="132229545600000000" />
+<file name="PostImages.php" server="tafl.azharlink.com" local="132229507780904752" remote="132229545600000000" />
+<file name="PostList.php" server="tafl.azharlink.com" local="132229507780914718" remote="132229545600000000" />
+<file name="PostLocation.php" server="tafl.azharlink.com" local="132229507780914718" remote="132229545600000000" />
+<file name="PostPerUserInfo.php" server="tafl.azharlink.com" local="132229507780914718" remote="132229545600000000" />
+<file name="PostReplies.php" server="tafl.azharlink.com" local="132229507780924693" remote="132229545600000000" />
+<file name="PostUserInfo.php" server="tafl.azharlink.com" local="132229507780924693" remote="132229545600000000" />
+<file name="PostUserInfosList.php" server="tafl.azharlink.com" local="132229507780924693" remote="132229545600000000" />
+<file name="User.php" server="tafl.azharlink.com" local="132229507780964603" remote="132229545600000000" />
+<file name="UserBlogs.php" server="tafl.azharlink.com" local="132229507780964603" remote="132229545600000000" />
+<file name="UserLocale.php" server="tafl.azharlink.com" local="132229507780974558" remote="132229545600000000" />
+</dwsync>

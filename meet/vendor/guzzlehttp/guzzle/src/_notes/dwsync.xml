@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Client.php" server="tafl.azharlink.com" local="132229507609764547" remote="132229594800000000" />
+<file name="ClientInterface.php" server="tafl.azharlink.com" local="132229507609764547" remote="132229594800000000" />
+<file name="functions.php" server="tafl.azharlink.com" local="132229507609921092" remote="132229595400000000" />
+<file name="functions_include.php" server="tafl.azharlink.com" local="132229507609921092" remote="132229595400000000" />
+<file name="HandlerStack.php" server="tafl.azharlink.com" local="132229507609764547" remote="132229595400000000" />
+<file name="MessageFormatter.php" server="tafl.azharlink.com" local="132229507609764547" remote="132229595400000000" />
+<file name="Middleware.php" server="tafl.azharlink.com" local="132229507609764547" remote="132229595400000000" />
+<file name="Pool.php" server="tafl.azharlink.com" local="132229507609921092" remote="132229595400000000" />
+<file name="PrepareBodyMiddleware.php" server="tafl.azharlink.com" local="132229507609921092" remote="132229595400000000" />
+<file name="RedirectMiddleware.php" server="tafl.azharlink.com" local="132229507609921092" remote="132229595400000000" />
+<file name="RequestOptions.php" server="tafl.azharlink.com" local="132229507609921092" remote="132229595400000000" />
+<file name="RetryMiddleware.php" server="tafl.azharlink.com" local="132229507609921092" remote="132229595400000000" />
+<file name="TransferStats.php" server="tafl.azharlink.com" local="132229507609921092" remote="132229595400000000" />
+<file name="UriTemplate.php" server="tafl.azharlink.com" local="132229507609921092" remote="132229595400000000" />
+</dwsync>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AnalyzeCommentRequest.php" server="tafl.azharlink.com" local="132229507788351411" remote="132229573200000000" />
+<file name="AnalyzeCommentResponse.php" server="tafl.azharlink.com" local="132229507788351411" remote="132229573200000000" />
+<file name="ArticleAndParentComment.php" server="tafl.azharlink.com" local="132229507788351411" remote="132229573200000000" />
+<file name="AttributeParameters.php" server="tafl.azharlink.com" local="132229507788351411" remote="132229573200000000" />
+<file name="AttributeScores.php" server="tafl.azharlink.com" local="132229507788351411" remote="132229573800000000" />
+<file name="Context.php" server="tafl.azharlink.com" local="132229507788351411" remote="132229573800000000" />
+<file name="Score.php" server="tafl.azharlink.com" local="132229507788507665" remote="132229573800000000" />
+<file name="SpanScore.php" server="tafl.azharlink.com" local="132229507788507665" remote="132229573800000000" />
+<file name="SuggestCommentScoreRequest.php" server="tafl.azharlink.com" local="132229507788507665" remote="132229573800000000" />
+<file name="SuggestCommentScoreResponse.php" server="tafl.azharlink.com" local="132229507788507665" remote="132229573800000000" />
+<file name="TextEntry.php" server="tafl.azharlink.com" local="132229507788507665" remote="132229573800000000" />
+</dwsync>

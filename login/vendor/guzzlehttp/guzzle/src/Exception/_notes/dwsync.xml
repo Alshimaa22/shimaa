@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadResponseException.php" server="tafl.azharlink.com" local="132505179366253401" remote="132506787000000000" />
+<file name="ClientException.php" server="tafl.azharlink.com" local="132505179366253401" remote="132506787000000000" />
+<file name="ConnectException.php" server="tafl.azharlink.com" local="132505179366264418" remote="132506787000000000" />
+<file name="GuzzleException.php" server="tafl.azharlink.com" local="132505179366264418" remote="132506787000000000" />
+<file name="InvalidArgumentException.php" server="tafl.azharlink.com" local="132505179366264418" remote="132506787000000000" />
+<file name="RequestException.php" server="tafl.azharlink.com" local="132505179366274409" remote="132506787000000000" />
+<file name="SeekException.php" server="tafl.azharlink.com" local="132505179366274409" remote="132506787000000000" />
+<file name="ServerException.php" server="tafl.azharlink.com" local="132505179366274409" remote="132506787000000000" />
+<file name="TooManyRedirectsException.php" server="tafl.azharlink.com" local="132505179366274409" remote="132506787000000000" />
+<file name="TransferException.php" server="tafl.azharlink.com" local="132505179366284378" remote="132506787000000000" />
+</dwsync>

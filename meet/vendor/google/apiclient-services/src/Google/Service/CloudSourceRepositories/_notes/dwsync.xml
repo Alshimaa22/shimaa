@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229568400000000" />
+<file name="AuditLogConfig.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229568400000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229568400000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229568400000000" />
+<file name="ListReposResponse.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229568400000000" />
+<file name="MirrorConfig.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229568400000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229568400000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229568400000000" />
+<file name="ProjectConfig.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229568400000000" />
+<file name="PubsubConfig.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229568400000000" />
+<file name="Repo.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229568400000000" />
+<file name="SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229569000000000" />
+<file name="SourcerepoEmpty.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229569000000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229569000000000" />
+<file name="SyncRepoMetadata.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229569000000000" />
+<file name="SyncRepoRequest.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229569000000000" />
+<file name="TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229569000000000" />
+<file name="TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229569000000000" />
+<file name="UpdateProjectConfigRequest.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229569000000000" />
+<file name="UpdateRepoRequest.php" server="tafl.azharlink.com" local="132229507786012571" remote="132229569000000000" />
+</dwsync>

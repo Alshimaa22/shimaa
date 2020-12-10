@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229570800000000" />
+<file name="AuthorizedKeysView.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229570800000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229570800000000" />
+<file name="Condition.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229570800000000" />
+<file name="Group.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229570800000000" />
+<file name="GroupList.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229570800000000" />
+<file name="GroupsAddMemberRequest.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229570800000000" />
+<file name="GroupsRemoveMemberRequest.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229570800000000" />
+<file name="LinuxAccountViews.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229570800000000" />
+<file name="LinuxGetAuthorizedKeysViewResponse.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229570800000000" />
+<file name="LinuxGetLinuxAccountViewsResponse.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229570800000000" />
+<file name="LinuxGroupView.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="LinuxUserView.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="LogConfig.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="LogConfigCounterOptions.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="OperationError.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="OperationErrorErrors.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="OperationList.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="OperationWarnings.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="OperationWarningsData.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="PublicKey.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="Rule.php" server="tafl.azharlink.com" local="132229507787348502" remote="132229571400000000" />
+<file name="TestPermissionsRequest.php" server="tafl.azharlink.com" local="132229507787504704" remote="132229571400000000" />
+<file name="TestPermissionsResponse.php" server="tafl.azharlink.com" local="132229507787504704" remote="132229571400000000" />
+<file name="User.php" server="tafl.azharlink.com" local="132229507787504704" remote="132229571400000000" />
+<file name="UserList.php" server="tafl.azharlink.com" local="132229507787504704" remote="132229571400000000" />
+</dwsync>

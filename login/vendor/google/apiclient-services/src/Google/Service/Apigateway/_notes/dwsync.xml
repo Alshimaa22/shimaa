@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApigatewayApi.php" server="tafl.azharlink.com" local="132505179589593108" remote="132506820600000000" />
+<file name="ApigatewayApiConfig.php" server="tafl.azharlink.com" local="132505179589603082" remote="132506820600000000" />
+<file name="ApigatewayApiConfigFile.php" server="tafl.azharlink.com" local="132505179589603082" remote="132506820600000000" />
+<file name="ApigatewayApiConfigGrpcServiceDefinition.php" server="tafl.azharlink.com" local="132505179589613109" remote="132506820600000000" />
+<file name="ApigatewayApiConfigOpenApiDocument.php" server="tafl.azharlink.com" local="132505179589613109" remote="132506820600000000" />
+<file name="ApigatewayAuditConfig.php" server="tafl.azharlink.com" local="132505179589622814" remote="132506820600000000" />
+<file name="ApigatewayAuditLogConfig.php" server="tafl.azharlink.com" local="132505179589622814" remote="132506820600000000" />
+<file name="ApigatewayBackendConfig.php" server="tafl.azharlink.com" local="132505179589633003" remote="132506820600000000" />
+<file name="ApigatewayBinding.php" server="tafl.azharlink.com" local="132505179589633003" remote="132506820600000000" />
+<file name="ApigatewayCancelOperationRequest.php" server="tafl.azharlink.com" local="132505179589642987" remote="132506821200000000" />
+<file name="ApigatewayEmpty.php" server="tafl.azharlink.com" local="132505179589642987" remote="132506821200000000" />
+<file name="ApigatewayExpr.php" server="tafl.azharlink.com" local="132505179589652986" remote="132506821200000000" />
+<file name="ApigatewayGateway.php" server="tafl.azharlink.com" local="132505179589652986" remote="132506821200000000" />
+<file name="ApigatewayGatewayConfig.php" server="tafl.azharlink.com" local="132505179589652986" remote="132506821200000000" />
+<file name="ApigatewayListApiConfigsResponse.php" server="tafl.azharlink.com" local="132505179589662923" remote="132506821200000000" />
+<file name="ApigatewayListApisResponse.php" server="tafl.azharlink.com" local="132505179589662923" remote="132506821200000000" />
+<file name="ApigatewayListGatewaysResponse.php" server="tafl.azharlink.com" local="132505179589672903" remote="132506821200000000" />
+<file name="ApigatewayListLocationsResponse.php" server="tafl.azharlink.com" local="132505179589672903" remote="132506821200000000" />
+<file name="ApigatewayListOperationsResponse.php" server="tafl.azharlink.com" local="132505179589682867" remote="132506821200000000" />
+<file name="ApigatewayLocation.php" server="tafl.azharlink.com" local="132505179589682867" remote="132506821200000000" />
+<file name="ApigatewayOperation.php" server="tafl.azharlink.com" local="132505179589692852" remote="132506821200000000" />
+<file name="ApigatewayOperationMetadata.php" server="tafl.azharlink.com" local="132505179589692852" remote="132506821200000000" />
+<file name="ApigatewayOperationMetadataDiagnostic.php" server="tafl.azharlink.com" local="132505179589702814" remote="132506821200000000" />
+<file name="ApigatewayPolicy.php" server="tafl.azharlink.com" local="132505179589702814" remote="132506821200000000" />
+<file name="ApigatewaySetIamPolicyRequest.php" server="tafl.azharlink.com" local="132505179589712791" remote="132506821200000000" />
+<file name="ApigatewayStatus.php" server="tafl.azharlink.com" local="132505179589722541" remote="132506821200000000" />
+<file name="ApigatewayTestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132505179589722541" remote="132506821200000000" />
+<file name="ApigatewayTestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132505179589722541" remote="132506821200000000" />
+</dwsync>

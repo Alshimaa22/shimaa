@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AsymmetricDecryptRequest.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="AsymmetricDecryptResponse.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="AsymmetricSignRequest.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="AsymmetricSignResponse.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="AuditConfig.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="AuditLogConfig.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="CryptoKey.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="CryptoKeyVersion.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="CryptoKeyVersionTemplate.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="DecryptRequest.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="DecryptResponse.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="DestroyCryptoKeyVersionRequest.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="Digest.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="EncryptRequest.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="EncryptResponse.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132229507783496113" remote="132229558200000000" />
+<file name="ImportCryptoKeyVersionRequest.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="ImportJob.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="KeyOperationAttestation.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="KeyRing.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="ListCryptoKeysResponse.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="ListCryptoKeyVersionsResponse.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="ListImportJobsResponse.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="ListKeyRingsResponse.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="ListLocationsResponse.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="Location.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="LocationMetadata.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="PublicKey.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558200000000" />
+<file name="RestoreCryptoKeyVersionRequest.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="UpdateCryptoKeyPrimaryVersionRequest.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="WrappingPublicKey.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+</dwsync>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Projects.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocations.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocationsDatasets.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocationsDatasetsDicomStores.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocationsDatasetsDicomStoresStudies.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocationsDatasetsDicomStoresStudiesSeries.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocationsDatasetsDicomStoresStudiesSeriesInstances.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocationsDatasetsDicomStoresStudiesSeriesInstancesFrames.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocationsDatasetsFhirStores.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocationsDatasetsFhirStoresFhir.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocationsDatasetsHl7V2Stores.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocationsDatasetsHl7V2StoresMessages.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229555800000000" />
+<file name="ProjectsLocationsDatasetsOperations.php" server="tafl.azharlink.com" local="132229507783027428" remote="132229556400000000" />
+</dwsync>

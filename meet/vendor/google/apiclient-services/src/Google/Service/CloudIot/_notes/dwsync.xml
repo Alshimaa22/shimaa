@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BindDeviceToGatewayRequest.php" server="tafl.azharlink.com" local="132229507783183753" remote="132229557000000000" />
+<file name="BindDeviceToGatewayResponse.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557000000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557000000000" />
+<file name="CloudiotEmpty.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557000000000" />
+<file name="Device.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557000000000" />
+<file name="DeviceConfig.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557000000000" />
+<file name="DeviceCredential.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="DeviceRegistry.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="DeviceState.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="EventNotificationConfig.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="GatewayConfig.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="GetIamPolicyRequest.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="GetPolicyOptions.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="HttpConfig.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="ListDeviceConfigVersionsResponse.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="ListDeviceRegistriesResponse.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="ListDevicesResponse.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="ListDeviceStatesResponse.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="ModifyCloudToDeviceConfigRequest.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="MqttConfig.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="PublicKeyCertificate.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="PublicKeyCredential.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="RegistryCredential.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="SendCommandToDeviceRequest.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="SendCommandToDeviceResponse.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="StateNotificationConfig.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="UnbindDeviceFromGatewayRequest.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="UnbindDeviceFromGatewayResponse.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+<file name="X509CertificateDetails.php" server="tafl.azharlink.com" local="132229507783339955" remote="132229557600000000" />
+</dwsync>

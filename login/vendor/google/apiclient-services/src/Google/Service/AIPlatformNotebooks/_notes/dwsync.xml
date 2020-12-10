@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AcceleratorConfig.php" server="tafl.azharlink.com" local="132505179582966991" remote="132506811000000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132505179582966991" remote="132506811000000000" />
+<file name="CancelOperationRequest.php" server="tafl.azharlink.com" local="132505179582976974" remote="132506811000000000" />
+<file name="ContainerImage.php" server="tafl.azharlink.com" local="132505179582976974" remote="132506811000000000" />
+<file name="Disk.php" server="tafl.azharlink.com" local="132505179582986942" remote="132506811000000000" />
+<file name="Environment.php" server="tafl.azharlink.com" local="132505179582986942" remote="132506811000000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132505179582986942" remote="132506811000000000" />
+<file name="GuestOsFeature.php" server="tafl.azharlink.com" local="132505179582996914" remote="132506811600000000" />
+<file name="Instance.php" server="tafl.azharlink.com" local="132505179582996914" remote="132506811600000000" />
+<file name="IsInstanceUpgradeableResponse.php" server="tafl.azharlink.com" local="132505179583006888" remote="132506811600000000" />
+<file name="ListEnvironmentsResponse.php" server="tafl.azharlink.com" local="132505179583006888" remote="132506811600000000" />
+<file name="ListInstancesResponse.php" server="tafl.azharlink.com" local="132505179583006888" remote="132506811600000000" />
+<file name="ListLocationsResponse.php" server="tafl.azharlink.com" local="132505179583006888" remote="132506811600000000" />
+<file name="ListOperationsResponse.php" server="tafl.azharlink.com" local="132505179583016860" remote="132506811600000000" />
+<file name="Location.php" server="tafl.azharlink.com" local="132505179583016860" remote="132506811600000000" />
+<file name="NotebooksEmpty.php" server="tafl.azharlink.com" local="132505179583016860" remote="132506811600000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132505179583026841" remote="132506811600000000" />
+<file name="OperationMetadata.php" server="tafl.azharlink.com" local="132505179583026841" remote="132506811600000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132505179583026841" remote="132506811600000000" />
+<file name="RegisterInstanceRequest.php" server="tafl.azharlink.com" local="132505179583041449" remote="132506811600000000" />
+<file name="ReportInstanceInfoRequest.php" server="tafl.azharlink.com" local="132505179583041449" remote="132506811600000000" />
+<file name="ResetInstanceRequest.php" server="tafl.azharlink.com" local="132505179583051990" remote="132506811600000000" />
+<file name="SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132505179583071390" remote="132506811600000000" />
+<file name="SetInstanceAcceleratorRequest.php" server="tafl.azharlink.com" local="132505179583081675" remote="132506811600000000" />
+<file name="SetInstanceLabelsRequest.php" server="tafl.azharlink.com" local="132505179583081675" remote="132506811600000000" />
+<file name="SetInstanceMachineTypeRequest.php" server="tafl.azharlink.com" local="132505179583081675" remote="132506811600000000" />
+<file name="StartInstanceRequest.php" server="tafl.azharlink.com" local="132505179583091616" remote="132506811600000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132505179583091616" remote="132506811600000000" />
+<file name="StopInstanceRequest.php" server="tafl.azharlink.com" local="132505179583103015" remote="132506811600000000" />
+<file name="TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132505179583103015" remote="132506811600000000" />
+<file name="TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132505179583103015" remote="132506811600000000" />
+<file name="UpgradeHistoryEntry.php" server="tafl.azharlink.com" local="132505179583113002" remote="132506811600000000" />
+<file name="UpgradeInstanceInternalRequest.php" server="tafl.azharlink.com" local="132505179583113002" remote="132506811600000000" />
+<file name="UpgradeInstanceRequest.php" server="tafl.azharlink.com" local="132505179583113002" remote="132506811600000000" />
+<file name="VmImage.php" server="tafl.azharlink.com" local="132505179583122975" remote="132506811600000000" />
+</dwsync>

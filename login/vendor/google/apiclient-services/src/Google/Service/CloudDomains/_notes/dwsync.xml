@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="tafl.azharlink.com" local="132505179597959192" remote="132506844000000000" />
+<file name="AuditLogConfig.php" server="tafl.azharlink.com" local="132505179597969170" remote="132506844000000000" />
+<file name="AuthorizationCode.php" server="tafl.azharlink.com" local="132505179597979143" remote="132506844000000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132505179597979143" remote="132506844000000000" />
+<file name="ConfigureContactSettingsRequest.php" server="tafl.azharlink.com" local="132505179597989115" remote="132506844000000000" />
+<file name="ConfigureDnsSettingsRequest.php" server="tafl.azharlink.com" local="132505179597989115" remote="132506844000000000" />
+<file name="ConfigureManagementSettingsRequest.php" server="tafl.azharlink.com" local="132505179597999328" remote="132506844000000000" />
+<file name="Contact.php" server="tafl.azharlink.com" local="132505179597999328" remote="132506844000000000" />
+<file name="ContactSettings.php" server="tafl.azharlink.com" local="132505179598009059" remote="132506844000000000" />
+<file name="CustomDns.php" server="tafl.azharlink.com" local="132505179598009059" remote="132506844000000000" />
+<file name="DnsSettings.php" server="tafl.azharlink.com" local="132505179598019029" remote="132506844000000000" />
+<file name="DsRecord.php" server="tafl.azharlink.com" local="132505179598019029" remote="132506844000000000" />
+<file name="ExportRegistrationRequest.php" server="tafl.azharlink.com" local="132505179598029003" remote="132506844000000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132505179598038976" remote="132506844000000000" />
+<file name="GlueRecord.php" server="tafl.azharlink.com" local="132505179598038976" remote="132506844000000000" />
+<file name="GoogleDomainsDns.php" server="tafl.azharlink.com" local="132505179598048950" remote="132506844000000000" />
+<file name="ListLocationsResponse.php" server="tafl.azharlink.com" local="132505179598048950" remote="132506844000000000" />
+<file name="ListOperationsResponse.php" server="tafl.azharlink.com" local="132505179598058925" remote="132506844000000000" />
+<file name="ListRegistrationsResponse.php" server="tafl.azharlink.com" local="132505179598068896" remote="132506844000000000" />
+<file name="Location.php" server="tafl.azharlink.com" local="132505179598068896" remote="132506844000000000" />
+<file name="ManagementSettings.php" server="tafl.azharlink.com" local="132505179598078460" remote="132506844000000000" />
+<file name="Money.php" server="tafl.azharlink.com" local="132505179598078460" remote="132506844000000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132505179598088731" remote="132506844000000000" />
+<file name="OperationMetadata.php" server="tafl.azharlink.com" local="132505179598088731" remote="132506844000000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132505179598098675" remote="132506844000000000" />
+<file name="PostalAddress.php" server="tafl.azharlink.com" local="132505179598098675" remote="132506844000000000" />
+<file name="RegisterDomainRequest.php" server="tafl.azharlink.com" local="132505179598108679" remote="132506844000000000" />
+<file name="RegisterParameters.php" server="tafl.azharlink.com" local="132505179598118383" remote="132506844000000000" />
+<file name="Registration.php" server="tafl.azharlink.com" local="132505179598128369" remote="132506844000000000" />
+<file name="ResetAuthorizationCodeRequest.php" server="tafl.azharlink.com" local="132505179598138339" remote="132506844000000000" />
+<file name="RetrieveRegisterParametersResponse.php" server="tafl.azharlink.com" local="132505179598178227" remote="132506844600000000" />
+<file name="SearchDomainsResponse.php" server="tafl.azharlink.com" local="132505179598178227" remote="132506844600000000" />
+<file name="SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132505179598188198" remote="132506844600000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132505179598188198" remote="132506844600000000" />
+<file name="TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132505179598198173" remote="132506844600000000" />
+<file name="TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132505179598198173" remote="132506844600000000" />
+</dwsync>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ComposerEmpty.php" server="tafl.azharlink.com" local="132505179597357578" remote="132506842200000000" />
+<file name="Environment.php" server="tafl.azharlink.com" local="132505179597367553" remote="132506842200000000" />
+<file name="EnvironmentConfig.php" server="tafl.azharlink.com" local="132505179597367553" remote="132506842200000000" />
+<file name="ImageVersion.php" server="tafl.azharlink.com" local="132505179597377758" remote="132506842200000000" />
+<file name="IPAllocationPolicy.php" server="tafl.azharlink.com" local="132505179597377758" remote="132506842200000000" />
+<file name="ListEnvironmentsResponse.php" server="tafl.azharlink.com" local="132505179597387494" remote="132506842200000000" />
+<file name="ListImageVersionsResponse.php" server="tafl.azharlink.com" local="132505179597387494" remote="132506842200000000" />
+<file name="ListOperationsResponse.php" server="tafl.azharlink.com" local="132505179597397468" remote="132506842200000000" />
+<file name="NodeConfig.php" server="tafl.azharlink.com" local="132505179597397468" remote="132506842200000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132505179597407441" remote="132506842200000000" />
+<file name="OperationMetadata.php" server="tafl.azharlink.com" local="132505179597417415" remote="132506842200000000" />
+<file name="PrivateClusterConfig.php" server="tafl.azharlink.com" local="132505179597417415" remote="132506842200000000" />
+<file name="PrivateEnvironmentConfig.php" server="tafl.azharlink.com" local="132505179597427389" remote="132506842200000000" />
+<file name="SoftwareConfig.php" server="tafl.azharlink.com" local="132505179597467039" remote="132506842200000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132505179597476989" remote="132506842800000000" />
+</dwsync>

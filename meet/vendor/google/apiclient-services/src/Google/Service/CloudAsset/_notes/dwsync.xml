@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Asset.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="AuditConfig.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="AuditLogConfig.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="BatchGetAssetsHistoryResponse.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="BigQueryDestination.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="CloudassetResource.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="ExportAssetsRequest.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GcsDestination.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleCloudOrgpolicyV1BooleanPolicy.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleCloudOrgpolicyV1ListPolicy.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleCloudOrgpolicyV1Policy.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleCloudOrgpolicyV1RestoreDefault.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleIdentityAccesscontextmanagerV1AccessLevel.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleIdentityAccesscontextmanagerV1AccessPolicy.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleIdentityAccesscontextmanagerV1BasicLevel.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleIdentityAccesscontextmanagerV1Condition.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleIdentityAccesscontextmanagerV1DevicePolicy.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleIdentityAccesscontextmanagerV1OsConstraint.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleIdentityAccesscontextmanagerV1ServicePerimeter.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="GoogleIdentityAccesscontextmanagerV1ServicePerimeterConfig.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="OutputConfig.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551000000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551600000000" />
+<file name="TemporalAsset.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551600000000" />
+<file name="TimeWindow.php" server="tafl.azharlink.com" local="132229507782195959" remote="132229551600000000" />
+</dwsync>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FieldMask.php" server="tafl.azharlink.com" local="132229507792217369" remote="132229584000000000" />
+<file name="MobileAppPanel.php" server="tafl.azharlink.com" local="132229507792217369" remote="132229584000000000" />
+<file name="MobileAppPanelsListResponse.php" server="tafl.azharlink.com" local="132229507792217369" remote="132229584000000000" />
+<file name="PageInfo.php" server="tafl.azharlink.com" local="132229507792237047" remote="132229584000000000" />
+<file name="ResultsGetRequest.php" server="tafl.azharlink.com" local="132229507792276938" remote="132229584000000000" />
+<file name="ResultsMask.php" server="tafl.azharlink.com" local="132229507792276938" remote="132229584000000000" />
+<file name="Survey.php" server="tafl.azharlink.com" local="132229507792287186" remote="132229584000000000" />
+<file name="SurveyAudience.php" server="tafl.azharlink.com" local="132229507792287186" remote="132229584000000000" />
+<file name="SurveyCost.php" server="tafl.azharlink.com" local="132229507792297168" remote="132229584000000000" />
+<file name="SurveyQuestion.php" server="tafl.azharlink.com" local="132229507792297168" remote="132229584000000000" />
+<file name="SurveyQuestionImage.php" server="tafl.azharlink.com" local="132229507792307134" remote="132229584000000000" />
+<file name="SurveyRejection.php" server="tafl.azharlink.com" local="132229507792307134" remote="132229584000000000" />
+<file name="SurveyResults.php" server="tafl.azharlink.com" local="132229507792317103" remote="132229584000000000" />
+<file name="SurveysDeleteResponse.php" server="tafl.azharlink.com" local="132229507792317103" remote="132229584000000000" />
+<file name="SurveysListResponse.php" server="tafl.azharlink.com" local="132229507792317103" remote="132229584000000000" />
+<file name="SurveysStartRequest.php" server="tafl.azharlink.com" local="132229507792326803" remote="132229584000000000" />
+<file name="SurveysStartResponse.php" server="tafl.azharlink.com" local="132229507792326803" remote="132229584000000000" />
+<file name="SurveysStopResponse.php" server="tafl.azharlink.com" local="132229507792337056" remote="132229584000000000" />
+<file name="TokenPagination.php" server="tafl.azharlink.com" local="132229507792337056" remote="132229584000000000" />
+</dwsync>

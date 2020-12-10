@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdministrationRegion.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="AdministrativeBody.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="Candidate.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="Channel.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="Contest.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="ContextParams.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="DivisionRepresentativeInfoRequest.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="DivisionSearchRequest.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="DivisionSearchResponse.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="DivisionSearchResult.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="Election.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="ElectionOfficial.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="ElectionsQueryRequest.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="ElectionsQueryResponse.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="ElectoralDistrict.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="FieldMetadataProto.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="GeographicDivision.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="InternalFieldMetadataProto.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="InternalSourceSummaryProto.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549200000000" />
+<file name="LivegraphBacktraceRecordInfo.php" server="tafl.azharlink.com" local="132229507781727055" remote="132229549800000000" />
+<file name="LivegraphBacktraceRecordInfoExpInfo.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="MessageSet.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="Office.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="Official.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="PointProto.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="PollingLocation.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="PostalAddress.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="Provenance.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="RepresentativeInfoData.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="RepresentativeInfoRequest.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="RepresentativeInfoResponse.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="SimpleAddressType.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="Source.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="StreetSegment.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="StreetSegmentList.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="VoterInfoRequest.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="VoterInfoResponse.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+<file name="VoterInfoSegmentResult.php" server="tafl.azharlink.com" local="132229507781883540" remote="132229549800000000" />
+</dwsync>

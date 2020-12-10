@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="tafl.azharlink.com" local="132505179597496941" remote="132506842800000000" />
+<file name="AuditLogConfig.php" server="tafl.azharlink.com" local="132505179597496941" remote="132506842800000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132505179597506633" remote="132506842800000000" />
+<file name="CancelOperationRequest.php" server="tafl.azharlink.com" local="132505179597516612" remote="132506842800000000" />
+<file name="CloudSqlConnectionProfile.php" server="tafl.azharlink.com" local="132505179597516612" remote="132506842800000000" />
+<file name="CloudSqlSettings.php" server="tafl.azharlink.com" local="132505179597526580" remote="132506842800000000" />
+<file name="ConnectionProfile.php" server="tafl.azharlink.com" local="132505179597526580" remote="132506842800000000" />
+<file name="DatabaseType.php" server="tafl.azharlink.com" local="132505179597536556" remote="132506842800000000" />
+<file name="DatamigrationEmpty.php" server="tafl.azharlink.com" local="132505179597536556" remote="132506842800000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132505179597546523" remote="132506842800000000" />
+<file name="GenerateSshScriptRequest.php" server="tafl.azharlink.com" local="132505179597546523" remote="132506842800000000" />
+<file name="GoogleCloudClouddmsV1beta1OperationMetadata.php" server="tafl.azharlink.com" local="132505179597556497" remote="132506842800000000" />
+<file name="ListConnectionProfilesResponse.php" server="tafl.azharlink.com" local="132505179597556497" remote="132506842800000000" />
+<file name="ListLocationsResponse.php" server="tafl.azharlink.com" local="132505179597566470" remote="132506842800000000" />
+<file name="ListMigrationJobsResponse.php" server="tafl.azharlink.com" local="132505179597566470" remote="132506842800000000" />
+<file name="ListOperationsResponse.php" server="tafl.azharlink.com" local="132505179597576449" remote="132506842800000000" />
+<file name="Location.php" server="tafl.azharlink.com" local="132505179597576449" remote="132506842800000000" />
+<file name="MigrationJob.php" server="tafl.azharlink.com" local="132505179597589767" remote="132506842800000000" />
+<file name="MigrationJobVerificationError.php" server="tafl.azharlink.com" local="132505179597589767" remote="132506842800000000" />
+<file name="MySqlConnectionProfile.php" server="tafl.azharlink.com" local="132505179597600047" remote="132506842800000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132505179597600047" remote="132506842800000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132505179597609988" remote="132506842800000000" />
+<file name="PromoteMigrationJobRequest.php" server="tafl.azharlink.com" local="132505179597609988" remote="132506842800000000" />
+<file name="RestartMigrationJobRequest.php" server="tafl.azharlink.com" local="132505179597659655" remote="132506842800000000" />
+<file name="ResumeMigrationJobRequest.php" server="tafl.azharlink.com" local="132505179597659655" remote="132506842800000000" />
+<file name="ReverseSshConnectivity.php" server="tafl.azharlink.com" local="132505179597669571" remote="132506842800000000" />
+<file name="SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132505179597669571" remote="132506842800000000" />
+<file name="SqlAclEntry.php" server="tafl.azharlink.com" local="132505179597679821" remote="132506842800000000" />
+<file name="SqlIpConfig.php" server="tafl.azharlink.com" local="132505179597689749" remote="132506843400000000" />
+<file name="SshScript.php" server="tafl.azharlink.com" local="132505179597689749" remote="132506843400000000" />
+<file name="SslConfig.php" server="tafl.azharlink.com" local="132505179597699716" remote="132506843400000000" />
+<file name="StartMigrationJobRequest.php" server="tafl.azharlink.com" local="132505179597699716" remote="132506843400000000" />
+<file name="StaticIpConnectivity.php" server="tafl.azharlink.com" local="132505179597709690" remote="132506843400000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132505179597709690" remote="132506843400000000" />
+<file name="StopMigrationJobRequest.php" server="tafl.azharlink.com" local="132505179597719668" remote="132506843400000000" />
+<file name="TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132505179597729419" remote="132506843400000000" />
+<file name="TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132505179597729419" remote="132506843400000000" />
+<file name="VerifyMigrationJobRequest.php" server="tafl.azharlink.com" local="132505179597739613" remote="132506843400000000" />
+<file name="VmCreationConfig.php" server="tafl.azharlink.com" local="132505179597739613" remote="132506843400000000" />
+<file name="VmSelectionConfig.php" server="tafl.azharlink.com" local="132505179597749365" remote="132506843400000000" />
+<file name="VpcPeeringConnectivity.php" server="tafl.azharlink.com" local="132505179597749365" remote="132506843400000000" />
+</dwsync>

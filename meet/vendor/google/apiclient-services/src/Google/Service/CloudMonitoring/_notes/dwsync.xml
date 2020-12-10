@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DeleteMetricDescriptorResponse.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="ListMetricDescriptorsRequest.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="ListMetricDescriptorsResponse.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="ListTimeseriesDescriptorsRequest.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="ListTimeseriesDescriptorsResponse.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="ListTimeseriesRequest.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="ListTimeseriesResponse.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="MetricDescriptor.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="MetricDescriptorLabelDescriptor.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="MetricDescriptorTypeDescriptor.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="Point.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="PointDistribution.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="PointDistributionBucket.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="PointDistributionOverflowBucket.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="PointDistributionUnderflowBucket.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229560600000000" />
+<file name="Timeseries.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229561200000000" />
+<file name="TimeseriesDescriptor.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229561200000000" />
+<file name="TimeseriesDescriptorLabel.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229561200000000" />
+<file name="TimeseriesPoint.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229561200000000" />
+<file name="WriteTimeseriesRequest.php" server="tafl.azharlink.com" local="132229507784030295" remote="132229561200000000" />
+<file name="WriteTimeseriesResponse.php" server="tafl.azharlink.com" local="132229507784186512" remote="132229561200000000" />
+</dwsync>

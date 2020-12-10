@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Accelerator.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="Action.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="CancelOperationRequest.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="ContainerKilledEvent.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="ContainerStartedEvent.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="ContainerStoppedEvent.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="DelayedEvent.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="Disk.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="Event.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="FailedEvent.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="LifesciencesEmpty.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="ListLocationsResponse.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="ListOperationsResponse.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="Location.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="Metadata.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="Mount.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="Network.php" server="tafl.azharlink.com" local="132229507783561421" remote="132229558800000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229558800000000" />
+<file name="Pipeline.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229558800000000" />
+<file name="PullStartedEvent.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229558800000000" />
+<file name="PullStoppedEvent.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229558800000000" />
+<file name="Resources.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229559400000000" />
+<file name="RunPipelineRequest.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229559400000000" />
+<file name="RunPipelineResponse.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229559400000000" />
+<file name="Secret.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229559400000000" />
+<file name="ServiceAccount.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229559400000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229559400000000" />
+<file name="UnexpectedExitStatusEvent.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229559400000000" />
+<file name="VirtualMachine.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229559400000000" />
+<file name="WorkerAssignedEvent.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229559400000000" />
+<file name="WorkerReleasedEvent.php" server="tafl.azharlink.com" local="132229507783717922" remote="132229559400000000" />
+</dwsync>

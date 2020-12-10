@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Date.php" server="tafl.azharlink.com" local="132505179584549168" remote="132506809200000000" />
+<file name="DateRange.php" server="tafl.azharlink.com" local="132505179584549168" remote="132506809200000000" />
+<file name="GenerateMediationReportRequest.php" server="tafl.azharlink.com" local="132505179584559135" remote="132506809200000000" />
+<file name="GenerateMediationReportResponse.php" server="tafl.azharlink.com" local="132505179584559135" remote="132506809200000000" />
+<file name="GenerateNetworkReportRequest.php" server="tafl.azharlink.com" local="132505179584569107" remote="132506809200000000" />
+<file name="GenerateNetworkReportResponse.php" server="tafl.azharlink.com" local="132505179584569107" remote="132506809200000000" />
+<file name="ListPublisherAccountsResponse.php" server="tafl.azharlink.com" local="132505179584569107" remote="132506809200000000" />
+<file name="LocalizationSettings.php" server="tafl.azharlink.com" local="132505179584579080" remote="132506809200000000" />
+<file name="MediationReportSpec.php" server="tafl.azharlink.com" local="132505179584579080" remote="132506809800000000" />
+<file name="MediationReportSpecDimensionFilter.php" server="tafl.azharlink.com" local="132505179584579080" remote="132506809800000000" />
+<file name="MediationReportSpecSortCondition.php" server="tafl.azharlink.com" local="132505179584589053" remote="132506809800000000" />
+<file name="NetworkReportSpec.php" server="tafl.azharlink.com" local="132505179584589053" remote="132506809800000000" />
+<file name="NetworkReportSpecDimensionFilter.php" server="tafl.azharlink.com" local="132505179584589053" remote="132506809800000000" />
+<file name="NetworkReportSpecSortCondition.php" server="tafl.azharlink.com" local="132505179584599031" remote="132506809800000000" />
+<file name="PublisherAccount.php" server="tafl.azharlink.com" local="132505179584599031" remote="132506809800000000" />
+<file name="ReportFooter.php" server="tafl.azharlink.com" local="132505179584599031" remote="132506809800000000" />
+<file name="ReportHeader.php" server="tafl.azharlink.com" local="132505179584609000" remote="132506809800000000" />
+<file name="ReportRow.php" server="tafl.azharlink.com" local="132505179584609000" remote="132506809800000000" />
+<file name="ReportRowDimensionValue.php" server="tafl.azharlink.com" local="132505179584618973" remote="132506809800000000" />
+<file name="ReportRowMetricValue.php" server="tafl.azharlink.com" local="132505179584618973" remote="132506809800000000" />
+<file name="ReportWarning.php" server="tafl.azharlink.com" local="132505179584618973" remote="132506809800000000" />
+<file name="StringList.php" server="tafl.azharlink.com" local="132505179584638921" remote="132506809800000000" />
+</dwsync>

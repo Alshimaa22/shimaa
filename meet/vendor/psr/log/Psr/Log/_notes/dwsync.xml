@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="tafl.azharlink.com" local="132229507653490160" remote="132229602600000000" />
+<file name="InvalidArgumentException.php" server="tafl.azharlink.com" local="132229507653490160" remote="132229602600000000" />
+<file name="LoggerAwareInterface.php" server="tafl.azharlink.com" local="132229507653490160" remote="132229602600000000" />
+<file name="LoggerAwareTrait.php" server="tafl.azharlink.com" local="132229507653490160" remote="132229602600000000" />
+<file name="LoggerInterface.php" server="tafl.azharlink.com" local="132229507653499892" remote="132229602600000000" />
+<file name="LoggerTrait.php" server="tafl.azharlink.com" local="132229507653499892" remote="132229602600000000" />
+<file name="LogLevel.php" server="tafl.azharlink.com" local="132229507653490160" remote="132229602600000000" />
+<file name="NullLogger.php" server="tafl.azharlink.com" local="132229507653499892" remote="132229602600000000" />
+</dwsync>

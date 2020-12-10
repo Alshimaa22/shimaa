@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdministrationRegion.php" server="tafl.azharlink.com" local="132505179595954327" remote="132506838000000000" />
+<file name="AdministrativeBody.php" server="tafl.azharlink.com" local="132505179595954327" remote="132506838000000000" />
+<file name="Candidate.php" server="tafl.azharlink.com" local="132505179595964297" remote="132506838000000000" />
+<file name="Channel.php" server="tafl.azharlink.com" local="132505179595964297" remote="132506838000000000" />
+<file name="Contest.php" server="tafl.azharlink.com" local="132505179595974273" remote="132506838000000000" />
+<file name="DivisionSearchResponse.php" server="tafl.azharlink.com" local="132505179595974273" remote="132506838000000000" />
+<file name="DivisionSearchResult.php" server="tafl.azharlink.com" local="132505179595984248" remote="132506838000000000" />
+<file name="Election.php" server="tafl.azharlink.com" local="132505179595984248" remote="132506838000000000" />
+<file name="ElectionOfficial.php" server="tafl.azharlink.com" local="132505179595994169" remote="132506838000000000" />
+<file name="ElectionsQueryResponse.php" server="tafl.azharlink.com" local="132505179595994169" remote="132506838000000000" />
+<file name="ElectoralDistrict.php" server="tafl.azharlink.com" local="132505179596004191" remote="132506838000000000" />
+<file name="GeographicDivision.php" server="tafl.azharlink.com" local="132505179596004191" remote="132506838000000000" />
+<file name="Office.php" server="tafl.azharlink.com" local="132505179596014249" remote="132506838000000000" />
+<file name="Official.php" server="tafl.azharlink.com" local="132505179596023259" remote="132506838000000000" />
+<file name="PollingLocation.php" server="tafl.azharlink.com" local="132505179596023259" remote="132506838000000000" />
+<file name="RepresentativeInfoData.php" server="tafl.azharlink.com" local="132505179596033550" remote="132506838000000000" />
+<file name="RepresentativeInfoResponse.php" server="tafl.azharlink.com" local="132505179596033550" remote="132506838000000000" />
+<file name="SimpleAddressType.php" server="tafl.azharlink.com" local="132505179596073639" remote="132506838600000000" />
+<file name="Source.php" server="tafl.azharlink.com" local="132505179596073639" remote="132506838600000000" />
+<file name="VoterInfoResponse.php" server="tafl.azharlink.com" local="132505179596083401" remote="132506838600000000" />
+</dwsync>

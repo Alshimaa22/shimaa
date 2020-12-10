@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GoogleCloudAssuredworkloadsV1beta1CreateWorkloadOperationMetadata.php" server="tafl.azharlink.com" local="132505179591877857" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1beta1Workload.php" server="tafl.azharlink.com" local="132505179591877857" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1beta1WorkloadCJISSettings.php" server="tafl.azharlink.com" local="132505179591887615" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1beta1WorkloadFedrampHighSettings.php" server="tafl.azharlink.com" local="132505179591887615" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1beta1WorkloadFedrampModerateSettings.php" server="tafl.azharlink.com" local="132505179591897591" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1beta1WorkloadIL4Settings.php" server="tafl.azharlink.com" local="132505179591907561" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1beta1WorkloadKMSSettings.php" server="tafl.azharlink.com" local="132505179591907561" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1beta1WorkloadResourceInfo.php" server="tafl.azharlink.com" local="132505179591917714" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1CreateWorkloadOperationMetadata.php" server="tafl.azharlink.com" local="132505179591847940" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1ListWorkloadsResponse.php" server="tafl.azharlink.com" local="132505179591857921" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1Workload.php" server="tafl.azharlink.com" local="132505179591857921" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1WorkloadKMSSettings.php" server="tafl.azharlink.com" local="132505179591867883" remote="132506827200000000" />
+<file name="GoogleCloudAssuredworkloadsV1WorkloadResourceInfo.php" server="tafl.azharlink.com" local="132505179591867883" remote="132506827200000000" />
+<file name="GoogleLongrunningListOperationsResponse.php" server="tafl.azharlink.com" local="132505179591917714" remote="132506827200000000" />
+<file name="GoogleLongrunningOperation.php" server="tafl.azharlink.com" local="132505179591927503" remote="132506827200000000" />
+<file name="GoogleProtobufEmpty.php" server="tafl.azharlink.com" local="132505179591927503" remote="132506827200000000" />
+<file name="GoogleRpcStatus.php" server="tafl.azharlink.com" local="132505179591937477" remote="132506827200000000" />
+</dwsync>

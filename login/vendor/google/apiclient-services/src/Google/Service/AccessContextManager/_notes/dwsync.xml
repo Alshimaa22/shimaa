@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccesscontextmanagerEmpty.php" server="tafl.azharlink.com" local="132505179583302517" remote="132506804400000000" />
+<file name="AccessLevel.php" server="tafl.azharlink.com" local="132505179583292522" remote="132506804400000000" />
+<file name="AccessPolicy.php" server="tafl.azharlink.com" local="132505179583292522" remote="132506804400000000" />
+<file name="BasicLevel.php" server="tafl.azharlink.com" local="132505179583302517" remote="132506804400000000" />
+<file name="CancelOperationRequest.php" server="tafl.azharlink.com" local="132505179583312619" remote="132506804400000000" />
+<file name="CommitServicePerimetersRequest.php" server="tafl.azharlink.com" local="132505179583312619" remote="132506804400000000" />
+<file name="CommitServicePerimetersResponse.php" server="tafl.azharlink.com" local="132505179583322462" remote="132506804400000000" />
+<file name="Condition.php" server="tafl.azharlink.com" local="132505179583322462" remote="132506804400000000" />
+<file name="CustomLevel.php" server="tafl.azharlink.com" local="132505179583332469" remote="132506804400000000" />
+<file name="DevicePolicy.php" server="tafl.azharlink.com" local="132505179583332469" remote="132506804400000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132505179583342403" remote="132506804400000000" />
+<file name="GcpUserAccessBinding.php" server="tafl.azharlink.com" local="132505179583342403" remote="132506804400000000" />
+<file name="ListAccessLevelsResponse.php" server="tafl.azharlink.com" local="132505179583342403" remote="132506804400000000" />
+<file name="ListAccessPoliciesResponse.php" server="tafl.azharlink.com" local="132505179583352372" remote="132506805000000000" />
+<file name="ListGcpUserAccessBindingsResponse.php" server="tafl.azharlink.com" local="132505179583352372" remote="132506805000000000" />
+<file name="ListOperationsResponse.php" server="tafl.azharlink.com" local="132505179583352372" remote="132506805000000000" />
+<file name="ListServicePerimetersResponse.php" server="tafl.azharlink.com" local="132505179583362343" remote="132506805000000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132505179583362343" remote="132506805000000000" />
+<file name="OsConstraint.php" server="tafl.azharlink.com" local="132505179583372308" remote="132506805000000000" />
+<file name="ReplaceAccessLevelsRequest.php" server="tafl.azharlink.com" local="132505179583372308" remote="132506805000000000" />
+<file name="ReplaceAccessLevelsResponse.php" server="tafl.azharlink.com" local="132505179583372308" remote="132506805000000000" />
+<file name="ReplaceServicePerimetersRequest.php" server="tafl.azharlink.com" local="132505179583382282" remote="132506805000000000" />
+<file name="ReplaceServicePerimetersResponse.php" server="tafl.azharlink.com" local="132505179583382282" remote="132506805000000000" />
+<file name="ServicePerimeter.php" server="tafl.azharlink.com" local="132505179583412204" remote="132506805000000000" />
+<file name="ServicePerimeterConfig.php" server="tafl.azharlink.com" local="132505179583422177" remote="132506805000000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132505179583422177" remote="132506805000000000" />
+<file name="VpcAccessibleServices.php" server="tafl.azharlink.com" local="132505179583422177" remote="132506805000000000" />
+</dwsync>

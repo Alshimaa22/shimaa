@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="tafl.azharlink.com" local="132229507779934928" remote="132229542600000000" />
+<file name="AuditLogConfig.php" server="tafl.azharlink.com" local="132229507779934928" remote="132229542600000000" />
+<file name="BigqueryconnectionEmpty.php" server="tafl.azharlink.com" local="132229507779934928" remote="132229542600000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132229507779944905" remote="132229542600000000" />
+<file name="CloudSqlCredential.php" server="tafl.azharlink.com" local="132229507779944905" remote="132229542600000000" />
+<file name="CloudSqlProperties.php" server="tafl.azharlink.com" local="132229507779954610" remote="132229542600000000" />
+<file name="Connection.php" server="tafl.azharlink.com" local="132229507779954610" remote="132229542600000000" />
+<file name="ConnectionCredential.php" server="tafl.azharlink.com" local="132229507779954610" remote="132229542600000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132229507779954610" remote="132229543200000000" />
+<file name="GetIamPolicyRequest.php" server="tafl.azharlink.com" local="132229507779964848" remote="132229543200000000" />
+<file name="GetPolicyOptions.php" server="tafl.azharlink.com" local="132229507779964848" remote="132229543200000000" />
+<file name="ListConnectionsResponse.php" server="tafl.azharlink.com" local="132229507779964848" remote="132229543200000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132229507779974830" remote="132229543200000000" />
+<file name="SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132229507779984836" remote="132229543200000000" />
+<file name="TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132229507779994791" remote="132229543200000000" />
+<file name="TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132229507779994791" remote="132229543200000000" />
+</dwsync>

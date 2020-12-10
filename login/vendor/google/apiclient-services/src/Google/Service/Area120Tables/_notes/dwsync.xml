@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Area120tablesEmpty.php" server="tafl.azharlink.com" local="132505179591537781" remote="132506826000000000" />
+<file name="BatchCreateRowsRequest.php" server="tafl.azharlink.com" local="132505179591547758" remote="132506826000000000" />
+<file name="BatchCreateRowsResponse.php" server="tafl.azharlink.com" local="132505179591547758" remote="132506826000000000" />
+<file name="BatchUpdateRowsRequest.php" server="tafl.azharlink.com" local="132505179591558005" remote="132506826000000000" />
+<file name="BatchUpdateRowsResponse.php" server="tafl.azharlink.com" local="132505179591558005" remote="132506826000000000" />
+<file name="ColumnDescription.php" server="tafl.azharlink.com" local="132505179591567923" remote="132506826000000000" />
+<file name="CreateRowRequest.php" server="tafl.azharlink.com" local="132505179591567923" remote="132506826000000000" />
+<file name="LabeledItem.php" server="tafl.azharlink.com" local="132505179591577900" remote="132506826000000000" />
+<file name="ListRowsResponse.php" server="tafl.azharlink.com" local="132505179591577900" remote="132506826000000000" />
+<file name="ListTablesResponse.php" server="tafl.azharlink.com" local="132505179591587652" remote="132506826000000000" />
+<file name="ListWorkspacesResponse.php" server="tafl.azharlink.com" local="132505179591587652" remote="132506826000000000" />
+<file name="LookupDetails.php" server="tafl.azharlink.com" local="132505179591597624" remote="132506826000000000" />
+<file name="RelationshipDetails.php" server="tafl.azharlink.com" local="132505179591607587" remote="132506826000000000" />
+<file name="Row.php" server="tafl.azharlink.com" local="132505179591627539" remote="132506826000000000" />
+<file name="Table.php" server="tafl.azharlink.com" local="132505179591637512" remote="132506826000000000" />
+<file name="UpdateRowRequest.php" server="tafl.azharlink.com" local="132505179591637512" remote="132506826000000000" />
+<file name="Workspace.php" server="tafl.azharlink.com" local="132505179591647485" remote="132506826000000000" />
+</dwsync>

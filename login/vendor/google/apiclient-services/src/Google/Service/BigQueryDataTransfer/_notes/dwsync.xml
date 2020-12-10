@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BigquerydatatransferEmpty.php" server="tafl.azharlink.com" local="132505179592206758" remote="132506830200000000" />
+<file name="CheckValidCredsRequest.php" server="tafl.azharlink.com" local="132505179592216731" remote="132506830200000000" />
+<file name="CheckValidCredsResponse.php" server="tafl.azharlink.com" local="132505179592216731" remote="132506830200000000" />
+<file name="DataSource.php" server="tafl.azharlink.com" local="132505179592226704" remote="132506830200000000" />
+<file name="DataSourceParameter.php" server="tafl.azharlink.com" local="132505179592226704" remote="132506830200000000" />
+<file name="EmailPreferences.php" server="tafl.azharlink.com" local="132505179592236678" remote="132506830200000000" />
+<file name="ListDataSourcesResponse.php" server="tafl.azharlink.com" local="132505179592236678" remote="132506830200000000" />
+<file name="ListLocationsResponse.php" server="tafl.azharlink.com" local="132505179592246651" remote="132506830200000000" />
+<file name="ListTransferConfigsResponse.php" server="tafl.azharlink.com" local="132505179592246651" remote="132506830200000000" />
+<file name="ListTransferLogsResponse.php" server="tafl.azharlink.com" local="132505179592256623" remote="132506830200000000" />
+<file name="ListTransferRunsResponse.php" server="tafl.azharlink.com" local="132505179592256623" remote="132506830200000000" />
+<file name="Location.php" server="tafl.azharlink.com" local="132505179592265528" remote="132506830200000000" />
+<file name="ScheduleOptions.php" server="tafl.azharlink.com" local="132505179592325392" remote="132506830200000000" />
+<file name="ScheduleTransferRunsRequest.php" server="tafl.azharlink.com" local="132505179592335584" remote="132506830200000000" />
+<file name="ScheduleTransferRunsResponse.php" server="tafl.azharlink.com" local="132505179592335584" remote="132506830200000000" />
+<file name="StartManualTransferRunsRequest.php" server="tafl.azharlink.com" local="132505179592345342" remote="132506830200000000" />
+<file name="StartManualTransferRunsResponse.php" server="tafl.azharlink.com" local="132505179592345342" remote="132506830200000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132505179592355527" remote="132506830200000000" />
+<file name="TimeRange.php" server="tafl.azharlink.com" local="132505179592355527" remote="132506830200000000" />
+<file name="TransferConfig.php" server="tafl.azharlink.com" local="132505179592365552" remote="132506830200000000" />
+<file name="TransferMessage.php" server="tafl.azharlink.com" local="132505179592365552" remote="132506830200000000" />
+<file name="TransferRun.php" server="tafl.azharlink.com" local="132505179592375474" remote="132506830800000000" />
+</dwsync>

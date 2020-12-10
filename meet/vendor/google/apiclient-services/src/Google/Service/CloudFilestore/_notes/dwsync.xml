@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CancelOperationRequest.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="FileEmpty.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="FileShareConfig.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="GoogleCloudSaasacceleratorManagementProvidersV1Instance.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="GoogleCloudSaasacceleratorManagementProvidersV1MaintenanceSchedule.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="GoogleCloudSaasacceleratorManagementProvidersV1NodeSloMetadata.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="GoogleCloudSaasacceleratorManagementProvidersV1NotificationMetadata.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="GoogleCloudSaasacceleratorManagementProvidersV1ProvisionedResource.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="GoogleCloudSaasacceleratorManagementProvidersV1RolloutMetadata.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="GoogleCloudSaasacceleratorManagementProvidersV1SloExclusion.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="GoogleCloudSaasacceleratorManagementProvidersV1SloMetadata.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="Instance.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="ListInstancesResponse.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="ListLocationsResponse.php" server="tafl.azharlink.com" local="132229507782558600" remote="132229554000000000" />
+<file name="ListOperationsResponse.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="Location.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="NetworkConfig.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="OperationMetadata.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+</dwsync>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregationInfo.php" server="tafl.azharlink.com" local="132505179610277580" remote="132506840400000000" />
+<file name="AuditConfig.php" server="tafl.azharlink.com" local="132505179610287563" remote="132506841000000000" />
+<file name="AuditLogConfig.php" server="tafl.azharlink.com" local="132505179610297528" remote="132506841000000000" />
+<file name="BillingAccount.php" server="tafl.azharlink.com" local="132505179610307505" remote="132506841000000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132505179610317592" remote="132506841000000000" />
+<file name="Category.php" server="tafl.azharlink.com" local="132505179610317592" remote="132506841000000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132505179610327454" remote="132506841000000000" />
+<file name="GeoTaxonomy.php" server="tafl.azharlink.com" local="132505179610337422" remote="132506841000000000" />
+<file name="ListBillingAccountsResponse.php" server="tafl.azharlink.com" local="132505179610347398" remote="132506841000000000" />
+<file name="ListProjectBillingInfoResponse.php" server="tafl.azharlink.com" local="132505179610357369" remote="132506841000000000" />
+<file name="ListServicesResponse.php" server="tafl.azharlink.com" local="132505179610357369" remote="132506841000000000" />
+<file name="ListSkusResponse.php" server="tafl.azharlink.com" local="132505179610367613" remote="132506841000000000" />
+<file name="Money.php" server="tafl.azharlink.com" local="132505179610377608" remote="132506841000000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132505179610387264" remote="132506841000000000" />
+<file name="PricingExpression.php" server="tafl.azharlink.com" local="132505179610387264" remote="132506841000000000" />
+<file name="PricingInfo.php" server="tafl.azharlink.com" local="132505179610397236" remote="132506841000000000" />
+<file name="ProjectBillingInfo.php" server="tafl.azharlink.com" local="132505179610407213" remote="132506841000000000" />
+<file name="Service.php" server="tafl.azharlink.com" local="132505179610487004" remote="132506841000000000" />
+<file name="SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132505179610487004" remote="132506841000000000" />
+<file name="Sku.php" server="tafl.azharlink.com" local="132505179610496978" remote="132506841000000000" />
+<file name="TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132505179610506952" remote="132506841000000000" />
+<file name="TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132505179610517052" remote="132506841000000000" />
+<file name="TierRate.php" server="tafl.azharlink.com" local="132505179610526890" remote="132506841000000000" />
+</dwsync>

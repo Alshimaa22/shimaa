@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AndroiddeviceprovisioningEmpty.php" server="tafl.azharlink.com" local="132505179588814093" remote="132506818800000000" />
+<file name="ClaimDeviceRequest.php" server="tafl.azharlink.com" local="132505179588824211" remote="132506818800000000" />
+<file name="ClaimDeviceResponse.php" server="tafl.azharlink.com" local="132505179588853978" remote="132506818800000000" />
+<file name="ClaimDevicesRequest.php" server="tafl.azharlink.com" local="132505179588853978" remote="132506818800000000" />
+<file name="Company.php" server="tafl.azharlink.com" local="132505179588863950" remote="132506818800000000" />
+<file name="Configuration.php" server="tafl.azharlink.com" local="132505179588873986" remote="132506818800000000" />
+<file name="CreateCustomerRequest.php" server="tafl.azharlink.com" local="132505179588883898" remote="132506818800000000" />
+<file name="CustomerApplyConfigurationRequest.php" server="tafl.azharlink.com" local="132505179588883898" remote="132506818800000000" />
+<file name="CustomerListConfigurationsResponse.php" server="tafl.azharlink.com" local="132505179588893870" remote="132506818800000000" />
+<file name="CustomerListCustomersResponse.php" server="tafl.azharlink.com" local="132505179588893870" remote="132506818800000000" />
+<file name="CustomerListDevicesResponse.php" server="tafl.azharlink.com" local="132505179588903843" remote="132506818800000000" />
+<file name="CustomerListDpcsResponse.php" server="tafl.azharlink.com" local="132505179588903843" remote="132506818800000000" />
+<file name="CustomerRemoveConfigurationRequest.php" server="tafl.azharlink.com" local="132505179588903843" remote="132506818800000000" />
+<file name="CustomerUnclaimDeviceRequest.php" server="tafl.azharlink.com" local="132505179588913815" remote="132506818800000000" />
+<file name="Device.php" server="tafl.azharlink.com" local="132505179588913815" remote="132506818800000000" />
+<file name="DeviceClaim.php" server="tafl.azharlink.com" local="132505179588923790" remote="132506818800000000" />
+<file name="DeviceIdentifier.php" server="tafl.azharlink.com" local="132505179588933762" remote="132506818800000000" />
+<file name="DeviceMetadata.php" server="tafl.azharlink.com" local="132505179588944596" remote="132506818800000000" />
+<file name="DeviceReference.php" server="tafl.azharlink.com" local="132505179588944596" remote="132506818800000000" />
+<file name="DevicesLongRunningOperationMetadata.php" server="tafl.azharlink.com" local="132505179588954814" remote="132506818800000000" />
+<file name="DevicesLongRunningOperationResponse.php" server="tafl.azharlink.com" local="132505179588954814" remote="132506818800000000" />
+<file name="Dpc.php" server="tafl.azharlink.com" local="132505179588964784" remote="132506819400000000" />
+<file name="FindDevicesByDeviceIdentifierRequest.php" server="tafl.azharlink.com" local="132505179588964784" remote="132506819400000000" />
+<file name="FindDevicesByDeviceIdentifierResponse.php" server="tafl.azharlink.com" local="132505179588974542" remote="132506819400000000" />
+<file name="FindDevicesByOwnerRequest.php" server="tafl.azharlink.com" local="132505179588974542" remote="132506819400000000" />
+<file name="FindDevicesByOwnerResponse.php" server="tafl.azharlink.com" local="132505179588984512" remote="132506819400000000" />
+<file name="ListCustomersResponse.php" server="tafl.azharlink.com" local="132505179588994480" remote="132506819400000000" />
+<file name="ListVendorCustomersResponse.php" server="tafl.azharlink.com" local="132505179588994480" remote="132506819400000000" />
+<file name="ListVendorsResponse.php" server="tafl.azharlink.com" local="132505179589004462" remote="132506819400000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132505179589004462" remote="132506819400000000" />
+<file name="OperationPerDevice.php" server="tafl.azharlink.com" local="132505179589014434" remote="132506819400000000" />
+<file name="PartnerClaim.php" server="tafl.azharlink.com" local="132505179589014434" remote="132506819400000000" />
+<file name="PartnerUnclaim.php" server="tafl.azharlink.com" local="132505179589024400" remote="132506819400000000" />
+<file name="PerDeviceStatusInBatch.php" server="tafl.azharlink.com" local="132505179589024400" remote="132506819400000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132505179589114165" remote="132506819400000000" />
+<file name="UnclaimDeviceRequest.php" server="tafl.azharlink.com" local="132505179589124138" remote="132506819400000000" />
+<file name="UnclaimDevicesRequest.php" server="tafl.azharlink.com" local="132505179589124138" remote="132506819400000000" />
+<file name="UpdateDeviceMetadataInBatchRequest.php" server="tafl.azharlink.com" local="132505179589134112" remote="132506819400000000" />
+<file name="UpdateDeviceMetadataRequest.php" server="tafl.azharlink.com" local="132505179589134112" remote="132506819400000000" />
+<file name="UpdateMetadataArguments.php" server="tafl.azharlink.com" local="132505179589144085" remote="132506819400000000" />
+</dwsync>

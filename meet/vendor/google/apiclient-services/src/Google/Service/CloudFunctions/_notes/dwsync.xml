@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="AuditLogConfig.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="CallFunctionRequest.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="CallFunctionResponse.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="CloudFunction.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="EventTrigger.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554000000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="FailurePolicy.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="GenerateDownloadUrlRequest.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="GenerateDownloadUrlResponse.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="GenerateUploadUrlRequest.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="GenerateUploadUrlResponse.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="HttpsTrigger.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="ListFunctionsResponse.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="ListLocationsResponse.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="ListOperationsResponse.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="Location.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="OperationMetadataV1.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="OperationMetadataV1Beta2.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="Retry.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="SourceRepository.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+<file name="TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132229507782715052" remote="132229554600000000" />
+</dwsync>

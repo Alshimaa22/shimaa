@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Accounts.php" server="tafl.azharlink.com" local="132505179584180149" remote="132506808000000000" />
+<file name="AccountsClients.php" server="tafl.azharlink.com" local="132505179584180149" remote="132506808000000000" />
+<file name="AccountsClientsInvitations.php" server="tafl.azharlink.com" local="132505179584180149" remote="132506808000000000" />
+<file name="AccountsClientsUsers.php" server="tafl.azharlink.com" local="132505179584190122" remote="132506808000000000" />
+<file name="AccountsCreatives.php" server="tafl.azharlink.com" local="132505179584190122" remote="132506808000000000" />
+<file name="AccountsCreativesDealAssociations.php" server="tafl.azharlink.com" local="132505179584200095" remote="132506808000000000" />
+<file name="AccountsFinalizedProposals.php" server="tafl.azharlink.com" local="132505179584200095" remote="132506808000000000" />
+<file name="AccountsProducts.php" server="tafl.azharlink.com" local="132505179584200095" remote="132506808000000000" />
+<file name="AccountsProposals.php" server="tafl.azharlink.com" local="132505179584210069" remote="132506808000000000" />
+<file name="AccountsPublisherProfiles.php" server="tafl.azharlink.com" local="132505179584210069" remote="132506808000000000" />
+<file name="Bidders.php" server="tafl.azharlink.com" local="132505179584210069" remote="132506808000000000" />
+<file name="BiddersAccounts.php" server="tafl.azharlink.com" local="132505179584220042" remote="132506808000000000" />
+<file name="BiddersAccountsFilterSets.php" server="tafl.azharlink.com" local="132505179584220042" remote="132506808000000000" />
+<file name="BiddersAccountsFilterSetsBidMetrics.php" server="tafl.azharlink.com" local="132505179584230015" remote="132506808000000000" />
+<file name="BiddersAccountsFilterSetsBidResponseErrors.php" server="tafl.azharlink.com" local="132505179584230015" remote="132506808000000000" />
+<file name="BiddersAccountsFilterSetsBidResponsesWithoutBids.php" server="tafl.azharlink.com" local="132505179584230015" remote="132506808000000000" />
+<file name="BiddersAccountsFilterSetsFilteredBidRequests.php" server="tafl.azharlink.com" local="132505179584239992" remote="132506808000000000" />
+<file name="BiddersAccountsFilterSetsFilteredBids.php" server="tafl.azharlink.com" local="132505179584239992" remote="132506808000000000" />
+<file name="BiddersAccountsFilterSetsFilteredBidsCreatives.php" server="tafl.azharlink.com" local="132505179584249967" remote="132506808000000000" />
+<file name="BiddersAccountsFilterSetsFilteredBidsDetails.php" server="tafl.azharlink.com" local="132505179584249967" remote="132506808000000000" />
+<file name="BiddersAccountsFilterSetsImpressionMetrics.php" server="tafl.azharlink.com" local="132505179584249967" remote="132506808000000000" />
+<file name="BiddersAccountsFilterSetsLosingBids.php" server="tafl.azharlink.com" local="132505179584259937" remote="132506808000000000" />
+<file name="BiddersAccountsFilterSetsNonBillableWinningBids.php" server="tafl.azharlink.com" local="132505179584259937" remote="132506808000000000" />
+<file name="BiddersFilterSets.php" server="tafl.azharlink.com" local="132505179584269945" remote="132506808000000000" />
+<file name="BiddersFilterSetsBidMetrics.php" server="tafl.azharlink.com" local="132505179584269945" remote="132506808000000000" />
+<file name="BiddersFilterSetsBidResponseErrors.php" server="tafl.azharlink.com" local="132505179584269945" remote="132506808000000000" />
+<file name="BiddersFilterSetsBidResponsesWithoutBids.php" server="tafl.azharlink.com" local="132505179584279882" remote="132506808600000000" />
+<file name="BiddersFilterSetsFilteredBidRequests.php" server="tafl.azharlink.com" local="132505179584279882" remote="132506808600000000" />
+<file name="BiddersFilterSetsFilteredBids.php" server="tafl.azharlink.com" local="132505179584289857" remote="132506808600000000" />
+<file name="BiddersFilterSetsFilteredBidsCreatives.php" server="tafl.azharlink.com" local="132505179584289857" remote="132506808600000000" />
+<file name="BiddersFilterSetsFilteredBidsDetails.php" server="tafl.azharlink.com" local="132505179584289857" remote="132506808600000000" />
+<file name="BiddersFilterSetsImpressionMetrics.php" server="tafl.azharlink.com" local="132505179584299827" remote="132506808600000000" />
+<file name="BiddersFilterSetsLosingBids.php" server="tafl.azharlink.com" local="132505179584299827" remote="132506808600000000" />
+<file name="BiddersFilterSetsNonBillableWinningBids.php" server="tafl.azharlink.com" local="132505179584299827" remote="132506808600000000" />
+</dwsync>

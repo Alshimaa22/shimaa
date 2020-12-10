@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoscaler.php" server="tafl.azharlink.com" local="132505179591977368" remote="132506827200000000" />
+<file name="AutoscalerListResponse.php" server="tafl.azharlink.com" local="132505179591987347" remote="132506827200000000" />
+<file name="AutoscalingPolicy.php" server="tafl.azharlink.com" local="132505179591997322" remote="132506827200000000" />
+<file name="AutoscalingPolicyCpuUtilization.php" server="tafl.azharlink.com" local="132505179591997322" remote="132506827200000000" />
+<file name="AutoscalingPolicyCustomMetricUtilization.php" server="tafl.azharlink.com" local="132505179592007294" remote="132506827200000000" />
+<file name="AutoscalingPolicyLoadBalancingUtilization.php" server="tafl.azharlink.com" local="132505179592007294" remote="132506827200000000" />
+<file name="DeprecationStatus.php" server="tafl.azharlink.com" local="132505179592017493" remote="132506827200000000" />
+<file name="Operation.php" server="tafl.azharlink.com" local="132505179592017493" remote="132506827200000000" />
+<file name="OperationError.php" server="tafl.azharlink.com" local="132505179592027467" remote="132506827200000000" />
+<file name="OperationErrorErrors.php" server="tafl.azharlink.com" local="132505179592027467" remote="132506827200000000" />
+<file name="OperationList.php" server="tafl.azharlink.com" local="132505179592037466" remote="132506827200000000" />
+<file name="OperationWarnings.php" server="tafl.azharlink.com" local="132505179592037466" remote="132506827200000000" />
+<file name="OperationWarningsData.php" server="tafl.azharlink.com" local="132505179592047406" remote="132506827200000000" />
+<file name="Zone.php" server="tafl.azharlink.com" local="132505179592067353" remote="132506827800000000" />
+<file name="ZoneList.php" server="tafl.azharlink.com" local="132505179592077325" remote="132506827800000000" />
+</dwsync>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdoptionInteraction.php" server="tafl.azharlink.com" local="132505179595738624" remote="132506837400000000" />
+<file name="AdvertiserExperienceData.php" server="tafl.azharlink.com" local="132505179595738624" remote="132506837400000000" />
+<file name="AssociatedEmail.php" server="tafl.azharlink.com" local="132505179595748599" remote="132506837400000000" />
+<file name="CasesData.php" server="tafl.azharlink.com" local="132505179595758586" remote="132506837400000000" />
+<file name="CasesInteractionSource.php" server="tafl.azharlink.com" local="132505179595768553" remote="132506837400000000" />
+<file name="ChatInteraction.php" server="tafl.azharlink.com" local="132505179595768553" remote="132506837400000000" />
+<file name="EmailInteraction.php" server="tafl.azharlink.com" local="132505179595778751" remote="132506837400000000" />
+<file name="Entity.php" server="tafl.azharlink.com" local="132505179595778751" remote="132506837400000000" />
+<file name="GammaData.php" server="tafl.azharlink.com" local="132505179595788498" remote="132506837400000000" />
+<file name="GenieData.php" server="tafl.azharlink.com" local="132505179595788498" remote="132506837400000000" />
+<file name="GoalInteraction.php" server="tafl.azharlink.com" local="132505179595798469" remote="132506837400000000" />
+<file name="GreenTeaData.php" server="tafl.azharlink.com" local="132505179595808441" remote="132506837400000000" />
+<file name="GrmData.php" server="tafl.azharlink.com" local="132505179595808441" remote="132506837400000000" />
+<file name="HangoutInteraction.php" server="tafl.azharlink.com" local="132505179595818414" remote="132506837400000000" />
+<file name="HelpcenterData.php" server="tafl.azharlink.com" local="132505179595818414" remote="132506837400000000" />
+<file name="IncentiveInteraction.php" server="tafl.azharlink.com" local="132505179595828387" remote="132506837400000000" />
+<file name="IncentiveInteractionMonetaryReward.php" server="tafl.azharlink.com" local="132505179595828387" remote="132506837400000000" />
+<file name="IncentivesData.php" server="tafl.azharlink.com" local="132505179595838361" remote="132506837400000000" />
+<file name="MarketingEmailInteraction.php" server="tafl.azharlink.com" local="132505179595838361" remote="132506837400000000" />
+<file name="MeetingInteraction.php" server="tafl.azharlink.com" local="132505179595848337" remote="132506837400000000" />
+<file name="NoteInteraction.php" server="tafl.azharlink.com" local="132505179595858309" remote="132506837400000000" />
+<file name="Participant.php" server="tafl.azharlink.com" local="132505179595858309" remote="132506837400000000" />
+<file name="PartnerSearchData.php" server="tafl.azharlink.com" local="132505179595868281" remote="132506837400000000" />
+<file name="PhoneInteraction.php" server="tafl.azharlink.com" local="132505179595874291" remote="132506838000000000" />
+<file name="TaskInteraction.php" server="tafl.azharlink.com" local="132505179595894546" remote="132506838000000000" />
+<file name="TraxAgent.php" server="tafl.azharlink.com" local="132505179595904229" remote="132506838000000000" />
+<file name="TraxData.php" server="tafl.azharlink.com" local="132505179595904229" remote="132506838000000000" />
+<file name="TraxInteraction.php" server="tafl.azharlink.com" local="132505179595914488" remote="132506838000000000" />
+<file name="Uaid.php" server="tafl.azharlink.com" local="132505179595914488" remote="132506838000000000" />
+<file name="UserCommData.php" server="tafl.azharlink.com" local="132505179595924405" remote="132506838000000000" />
+<file name="UserId.php" server="tafl.azharlink.com" local="132505179595924405" remote="132506838000000000" />
+<file name="UserInteraction.php" server="tafl.azharlink.com" local="132505179595934376" remote="132506838000000000" />
+<file name="UserInteractionsListResponse.php" server="tafl.azharlink.com" local="132505179595934376" remote="132506838000000000" />
+</dwsync>

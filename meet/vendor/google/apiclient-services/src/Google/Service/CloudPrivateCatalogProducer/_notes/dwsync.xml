@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GoogleCloudPrivatecatalogproducerV1beta1Association.php" server="tafl.azharlink.com" local="132229507784342776" remote="132229562400000000" />
+<file name="GoogleCloudPrivatecatalogproducerV1beta1Catalog.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleCloudPrivatecatalogproducerV1beta1CopyProductRequest.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleCloudPrivatecatalogproducerV1beta1CreateAssociationRequest.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleCloudPrivatecatalogproducerV1beta1ListAssociationsResponse.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleCloudPrivatecatalogproducerV1beta1ListCatalogsResponse.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleCloudPrivatecatalogproducerV1beta1ListProductsResponse.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleCloudPrivatecatalogproducerV1beta1ListVersionsResponse.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleCloudPrivatecatalogproducerV1beta1Product.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleCloudPrivatecatalogproducerV1beta1UndeleteCatalogRequest.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleCloudPrivatecatalogproducerV1beta1UploadIconRequest.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleCloudPrivatecatalogproducerV1beta1Version.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleIamV1AuditConfig.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleIamV1AuditLogConfig.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleIamV1Binding.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleIamV1Policy.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleIamV1SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleIamV1TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleIamV1TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132229507784498990" remote="132229562400000000" />
+<file name="GoogleLongrunningCancelOperationRequest.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229562400000000" />
+<file name="GoogleLongrunningListOperationsResponse.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229562400000000" />
+<file name="GoogleLongrunningOperation.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229562400000000" />
+<file name="GoogleProtobufEmpty.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="GoogleRpcStatus.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+<file name="GoogleTypeExpr.php" server="tafl.azharlink.com" local="132229507784564292" remote="132229563000000000" />
+</dwsync>

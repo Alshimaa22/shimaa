@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdmissionRule.php" server="tafl.azharlink.com" local="132229507780764404" remote="132229545000000000" />
+<file name="AdmissionWhitelistPattern.php" server="tafl.azharlink.com" local="132229507780764404" remote="132229545000000000" />
+<file name="Attestor.php" server="tafl.azharlink.com" local="132229507780764404" remote="132229545000000000" />
+<file name="AttestorPublicKey.php" server="tafl.azharlink.com" local="132229507780774375" remote="132229545000000000" />
+<file name="BinaryauthorizationEmpty.php" server="tafl.azharlink.com" local="132229507780774375" remote="132229545000000000" />
+<file name="Binding.php" server="tafl.azharlink.com" local="132229507780774375" remote="132229545000000000" />
+<file name="Expr.php" server="tafl.azharlink.com" local="132229507780784084" remote="132229545000000000" />
+<file name="IamPolicy.php" server="tafl.azharlink.com" local="132229507780784084" remote="132229545000000000" />
+<file name="ListAttestorsResponse.php" server="tafl.azharlink.com" local="132229507780784084" remote="132229545000000000" />
+<file name="PkixPublicKey.php" server="tafl.azharlink.com" local="132229507780794324" remote="132229545000000000" />
+<file name="Policy.php" server="tafl.azharlink.com" local="132229507780794324" remote="132229545000000000" />
+<file name="SetIamPolicyRequest.php" server="tafl.azharlink.com" local="132229507780814269" remote="132229545000000000" />
+<file name="TestIamPermissionsRequest.php" server="tafl.azharlink.com" local="132229507780814269" remote="132229545000000000" />
+<file name="TestIamPermissionsResponse.php" server="tafl.azharlink.com" local="132229507780814269" remote="132229545000000000" />
+<file name="UserOwnedGrafeasNote.php" server="tafl.azharlink.com" local="132229507780824252" remote="132229545000000000" />
+</dwsync>

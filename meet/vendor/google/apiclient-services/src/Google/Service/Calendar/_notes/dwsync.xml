@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Acl.php" server="tafl.azharlink.com" local="132229507781446424" remote="132229547400000000" />
+<file name="AclRule.php" server="tafl.azharlink.com" local="132229507781446424" remote="132229547400000000" />
+<file name="AclRuleScope.php" server="tafl.azharlink.com" local="132229507781456397" remote="132229547400000000" />
+<file name="Calendar.php" server="tafl.azharlink.com" local="132229507781456397" remote="132229547400000000" />
+<file name="CalendarList.php" server="tafl.azharlink.com" local="132229507781456397" remote="132229547400000000" />
+<file name="CalendarListEntry.php" server="tafl.azharlink.com" local="132229507781466375" remote="132229547400000000" />
+<file name="CalendarListEntryNotificationSettings.php" server="tafl.azharlink.com" local="132229507781466375" remote="132229547400000000" />
+<file name="CalendarNotification.php" server="tafl.azharlink.com" local="132229507781476338" remote="132229548000000000" />
+<file name="Channel.php" server="tafl.azharlink.com" local="132229507781476338" remote="132229548000000000" />
+<file name="ColorDefinition.php" server="tafl.azharlink.com" local="132229507781476338" remote="132229548000000000" />
+<file name="Colors.php" server="tafl.azharlink.com" local="132229507781476338" remote="132229548000000000" />
+<file name="ConferenceData.php" server="tafl.azharlink.com" local="132229507781486314" remote="132229548000000000" />
+<file name="ConferenceParameters.php" server="tafl.azharlink.com" local="132229507781486314" remote="132229548000000000" />
+<file name="ConferenceParametersAddOnParameters.php" server="tafl.azharlink.com" local="132229507781486314" remote="132229548000000000" />
+<file name="ConferenceProperties.php" server="tafl.azharlink.com" local="132229507781496302" remote="132229548000000000" />
+<file name="ConferenceRequestStatus.php" server="tafl.azharlink.com" local="132229507781496302" remote="132229548000000000" />
+<file name="ConferenceSolution.php" server="tafl.azharlink.com" local="132229507781496302" remote="132229548000000000" />
+<file name="ConferenceSolutionKey.php" server="tafl.azharlink.com" local="132229507781506267" remote="132229548000000000" />
+<file name="CreateConferenceRequest.php" server="tafl.azharlink.com" local="132229507781506267" remote="132229548000000000" />
+<file name="EntryPoint.php" server="tafl.azharlink.com" local="132229507781515979" remote="132229548000000000" />
+<file name="Error.php" server="tafl.azharlink.com" local="132229507781515979" remote="132229548000000000" />
+<file name="Event.php" server="tafl.azharlink.com" local="132229507781515979" remote="132229548000000000" />
+<file name="EventAttachment.php" server="tafl.azharlink.com" local="132229507781526218" remote="132229548000000000" />
+<file name="EventAttendee.php" server="tafl.azharlink.com" local="132229507781526218" remote="132229548000000000" />
+<file name="EventCreator.php" server="tafl.azharlink.com" local="132229507781526218" remote="132229548000000000" />
+<file name="EventDateTime.php" server="tafl.azharlink.com" local="132229507781526218" remote="132229548000000000" />
+<file name="EventExtendedProperties.php" server="tafl.azharlink.com" local="132229507781536181" remote="132229548000000000" />
+<file name="EventGadget.php" server="tafl.azharlink.com" local="132229507781536181" remote="132229548000000000" />
+<file name="EventOrganizer.php" server="tafl.azharlink.com" local="132229507781536181" remote="132229548000000000" />
+<file name="EventReminder.php" server="tafl.azharlink.com" local="132229507781546158" remote="132229548000000000" />
+<file name="EventReminders.php" server="tafl.azharlink.com" local="132229507781546158" remote="132229548000000000" />
+<file name="Events.php" server="tafl.azharlink.com" local="132229507781556130" remote="132229548000000000" />
+<file name="EventSource.php" server="tafl.azharlink.com" local="132229507781546158" remote="132229548000000000" />
+<file name="FreeBusyCalendar.php" server="tafl.azharlink.com" local="132229507781556130" remote="132229548000000000" />
+<file name="FreeBusyGroup.php" server="tafl.azharlink.com" local="132229507781566128" remote="132229548000000000" />
+<file name="FreeBusyRequest.php" server="tafl.azharlink.com" local="132229507781566128" remote="132229548000000000" />
+<file name="FreeBusyRequestItem.php" server="tafl.azharlink.com" local="132229507781566128" remote="132229548000000000" />
+<file name="FreeBusyResponse.php" server="tafl.azharlink.com" local="132229507781576079" remote="132229548000000000" />
+<file name="Setting.php" server="tafl.azharlink.com" local="132229507781615971" remote="132229548000000000" />
+<file name="Settings.php" server="tafl.azharlink.com" local="132229507781615971" remote="132229548000000000" />
+<file name="TimePeriod.php" server="tafl.azharlink.com" local="132229507781615971" remote="132229548000000000" />
+</dwsync>

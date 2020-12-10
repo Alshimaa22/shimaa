@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChromePHPFormatter.php" server="tafl.azharlink.com" local="132229507676332771" remote="132229598400000000" />
+<file name="ElasticaFormatter.php" server="tafl.azharlink.com" local="132229507676332771" remote="132229598400000000" />
+<file name="FlowdockFormatter.php" server="tafl.azharlink.com" local="132229507676342741" remote="132229598400000000" />
+<file name="FluentdFormatter.php" server="tafl.azharlink.com" local="132229507676342741" remote="132229598400000000" />
+<file name="FormatterInterface.php" server="tafl.azharlink.com" local="132229507676352718" remote="132229598400000000" />
+<file name="GelfMessageFormatter.php" server="tafl.azharlink.com" local="132229507676362378" remote="132229599000000000" />
+<file name="HtmlFormatter.php" server="tafl.azharlink.com" local="132229507676362378" remote="132229599000000000" />
+<file name="JsonFormatter.php" server="tafl.azharlink.com" local="132229507676372609" remote="132229599000000000" />
+<file name="LineFormatter.php" server="tafl.azharlink.com" local="132229507676372609" remote="132229599000000000" />
+<file name="LogglyFormatter.php" server="tafl.azharlink.com" local="132229507676372609" remote="132229599000000000" />
+<file name="LogstashFormatter.php" server="tafl.azharlink.com" local="132229507676382644" remote="132229599000000000" />
+<file name="MongoDBFormatter.php" server="tafl.azharlink.com" local="132229507676382644" remote="132229599000000000" />
+<file name="NormalizerFormatter.php" server="tafl.azharlink.com" local="132229507676392633" remote="132229599000000000" />
+<file name="ScalarFormatter.php" server="tafl.azharlink.com" local="132229507676392633" remote="132229599000000000" />
+<file name="WildfireFormatter.php" server="tafl.azharlink.com" local="132229507676392633" remote="132229599000000000" />
+</dwsync>

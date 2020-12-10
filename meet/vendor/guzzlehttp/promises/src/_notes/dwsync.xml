@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregateException.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="CancellationException.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="Coroutine.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="EachPromise.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="FulfilledPromise.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="functions.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="functions_include.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="Promise.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="PromiseInterface.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="PromisorInterface.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="RejectedPromise.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="RejectionException.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="TaskQueue.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+<file name="TaskQueueInterface.php" server="tafl.azharlink.com" local="132229507587303526" remote="132229596000000000" />
+</dwsync>

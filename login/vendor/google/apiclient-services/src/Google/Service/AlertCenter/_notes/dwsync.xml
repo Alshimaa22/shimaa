@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccountWarning.php" server="tafl.azharlink.com" local="132505179585087720" remote="132506811600000000" />
+<file name="ActivityRule.php" server="tafl.azharlink.com" local="132505179585087720" remote="132506811600000000" />
+<file name="Alert.php" server="tafl.azharlink.com" local="132505179585097693" remote="132506811600000000" />
+<file name="AlertcenterEmpty.php" server="tafl.azharlink.com" local="132505179585107670" remote="132506811600000000" />
+<file name="AlertFeedback.php" server="tafl.azharlink.com" local="132505179585097693" remote="132506811600000000" />
+<file name="AlertMetadata.php" server="tafl.azharlink.com" local="132505179585097693" remote="132506811600000000" />
+<file name="AppMakerSqlSetupNotification.php" server="tafl.azharlink.com" local="132505179585107670" remote="132506812200000000" />
+<file name="Attachment.php" server="tafl.azharlink.com" local="132505179585117640" remote="132506812200000000" />
+<file name="BadWhitelist.php" server="tafl.azharlink.com" local="132505179585117640" remote="132506812200000000" />
+<file name="BatchDeleteAlertsRequest.php" server="tafl.azharlink.com" local="132505179585117640" remote="132506812200000000" />
+<file name="BatchDeleteAlertsResponse.php" server="tafl.azharlink.com" local="132505179585127613" remote="132506812200000000" />
+<file name="BatchUndeleteAlertsRequest.php" server="tafl.azharlink.com" local="132505179585127613" remote="132506812200000000" />
+<file name="BatchUndeleteAlertsResponse.php" server="tafl.azharlink.com" local="132505179585137586" remote="132506812200000000" />
+<file name="CloudPubsubTopic.php" server="tafl.azharlink.com" local="132505179585137586" remote="132506812200000000" />
+<file name="Csv.php" server="tafl.azharlink.com" local="132505179585137586" remote="132506812200000000" />
+<file name="CsvRow.php" server="tafl.azharlink.com" local="132505179585147560" remote="132506812200000000" />
+<file name="DeviceCompromised.php" server="tafl.azharlink.com" local="132505179585147560" remote="132506812200000000" />
+<file name="DeviceCompromisedSecurityDetail.php" server="tafl.azharlink.com" local="132505179585157532" remote="132506812200000000" />
+<file name="DlpRuleViolation.php" server="tafl.azharlink.com" local="132505179585157532" remote="132506812200000000" />
+<file name="DomainId.php" server="tafl.azharlink.com" local="132505179585157532" remote="132506812200000000" />
+<file name="DomainWideTakeoutInitiated.php" server="tafl.azharlink.com" local="132505179585167506" remote="132506812200000000" />
+<file name="GmailMessageInfo.php" server="tafl.azharlink.com" local="132505179585167506" remote="132506812200000000" />
+<file name="GoogleOperations.php" server="tafl.azharlink.com" local="132505179585177479" remote="132506812200000000" />
+<file name="ListAlertFeedbackResponse.php" server="tafl.azharlink.com" local="132505179585177479" remote="132506812200000000" />
+<file name="ListAlertsResponse.php" server="tafl.azharlink.com" local="132505179585177479" remote="132506812200000000" />
+<file name="LoginDetails.php" server="tafl.azharlink.com" local="132505179585187455" remote="132506812200000000" />
+<file name="MailPhishing.php" server="tafl.azharlink.com" local="132505179585187455" remote="132506812200000000" />
+<file name="MaliciousEntity.php" server="tafl.azharlink.com" local="132505179585197427" remote="132506812200000000" />
+<file name="MatchInfo.php" server="tafl.azharlink.com" local="132505179585197427" remote="132506812200000000" />
+<file name="Notification.php" server="tafl.azharlink.com" local="132505179585207400" remote="132506812200000000" />
+<file name="PhishingSpike.php" server="tafl.azharlink.com" local="132505179585207400" remote="132506812200000000" />
+<file name="PredefinedDetectorInfo.php" server="tafl.azharlink.com" local="132505179585207400" remote="132506812200000000" />
+<file name="RequestInfo.php" server="tafl.azharlink.com" local="132505179585217373" remote="132506812200000000" />
+<file name="ResourceInfo.php" server="tafl.azharlink.com" local="132505179585237322" remote="132506812200000000" />
+<file name="RuleInfo.php" server="tafl.azharlink.com" local="132505179585247293" remote="132506812200000000" />
+<file name="RuleViolationInfo.php" server="tafl.azharlink.com" local="132505179585247293" remote="132506812200000000" />
+<file name="Settings.php" server="tafl.azharlink.com" local="132505179585247293" remote="132506812200000000" />
+<file name="StateSponsoredAttack.php" server="tafl.azharlink.com" local="132505179585257269" remote="132506812200000000" />
+<file name="Status.php" server="tafl.azharlink.com" local="132505179585257269" remote="132506812200000000" />
+<file name="SuspiciousActivity.php" server="tafl.azharlink.com" local="132505179585267242" remote="132506812200000000" />
+<file name="SuspiciousActivitySecurityDetail.php" server="tafl.azharlink.com" local="132505179585267242" remote="132506812200000000" />
+<file name="UndeleteAlertRequest.php" server="tafl.azharlink.com" local="132505179585277213" remote="132506812200000000" />
+<file name="User.php" server="tafl.azharlink.com" local="132505179585277213" remote="132506812200000000" />
+<file name="UserDefinedDetectorInfo.php" server="tafl.azharlink.com" local="132505179585277213" remote="132506812200000000" />
+</dwsync>

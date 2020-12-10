@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="InAppProduct.php" server="tafl.azharlink.com" local="132505179595629202" remote="132506836800000000" />
+<file name="InAppProductList.php" server="tafl.azharlink.com" local="132505179595639219" remote="132506836800000000" />
+<file name="InAppProductLocaleData.php" server="tafl.azharlink.com" local="132505179595639219" remote="132506836800000000" />
+<file name="InAppProductPrices.php" server="tafl.azharlink.com" local="132505179595649152" remote="132506837400000000" />
+<file name="Item.php" server="tafl.azharlink.com" local="132505179595649152" remote="132506837400000000" />
+<file name="Jwt.php" server="tafl.azharlink.com" local="132505179595659068" remote="132506837400000000" />
+<file name="License.php" server="tafl.azharlink.com" local="132505179595659068" remote="132506837400000000" />
+<file name="PaymentsBuyRequest.php" server="tafl.azharlink.com" local="132505179595668821" remote="132506837400000000" />
+<file name="PaymentsDeleteResponse.php" server="tafl.azharlink.com" local="132505179595678782" remote="132506837400000000" />
+<file name="PaymentsListResponseItems.php" server="tafl.azharlink.com" local="132505179595678782" remote="132506837400000000" />
+<file name="PublishRequest.php" server="tafl.azharlink.com" local="132505179595688998" remote="132506837400000000" />
+<file name="UserLicense.php" server="tafl.azharlink.com" local="132505179595718982" remote="132506837400000000" />
+</dwsync>
